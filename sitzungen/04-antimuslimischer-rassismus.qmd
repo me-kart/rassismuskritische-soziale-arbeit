@@ -1,0 +1,105 @@
+---
+title: "Sitzung 4: Antimuslimischer Rassismus"
+subtitle: "29.10.2026"
+---
+
+::: {.callout-note appearance="simple" icon=false}
+### Leitfrage
+Wie werden Muslim:innen und als muslimisch gelesene Menschen in Deutschland dargestellt, und welche Folgen hat das für Betroffene und für die Soziale Arbeit?
+:::
+
+„Der Islam gehört inzwischen auch zu Deutschland“, sagte Bundespräsident Christian Wulff 2010. „Der Islam gehört nicht zu Deutschland“, entgegnete Horst Seehofer 2018 als neuer Bundesinnenminister. Zwischen beiden Sätzen liegt eine Debatte, die weniger über Religion als über Zugehörigkeit geführt wird. Die Sitzung eröffnet die Reihe der Erscheinungsformen. Sie fragt, wie Religion zu einem Merkmal wird, das wie „Rasse“ funktioniert.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Themen
+
+- Begriffe: Islamfeindlichkeit, Muslimfeindlichkeit, antimuslimischer Rassismus
+- Einstellungen und Zahlen
+- Darstellungsmuster in Medien und Politik
+- Das Kopftuch als Mehrfachdiskriminierung
+- Konsequenzen für die Soziale Arbeit
+:::
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Zentrale Begriffe
+
+- Rassifizierung von Religion
+- „Rassismus ohne Rassen“
+- Dichotomisierung, Homogenisierung, Naturalisierung, Hierarchisierung
+- Tripelmandat
+:::
+
+:::
+
+::: {.callout-note appearance="simple" icon=false}
+### Hinweis
+Im Seminar sitzen möglicherweise Betroffene. Diskriminierende Aussagen werden zitiert, um sie zu analysieren, nicht um sie zu wiederholen.
+:::
+
+## 1. Rückbindung: Rassismus ohne „Rasse“
+
+Aus den vorherigen Sitzungen nehmen wir drei Elemente mit: **Rassifizierung** (Menschen werden zu Gruppen gemacht und mit scheinbar unveränderlichen Eigenschaften versehen), **Othering** (ein „Wir“ und „die Anderen“ werden konstruiert, die Anderen abgewertet) sowie **Macht und Struktur** (Rassismus ist mehr als ein Vorurteil, er wirkt individuell, institutionell und strukturell). Beim antimuslimischen Rassismus wird Religion bzw. „Kultur“ zum Marker, der wie „Rasse“ funktioniert. Étienne Balibar (1990) spricht von einem „Rassismus ohne Rassen“.
+
+## 2. Begriffe: Wovon sprechen wir?
+
+| Begriff | Fokus | Einordnung |
+|---|---|---|
+| Islamfeindlichkeit | die Religion als Objekt der Ablehnung | u. a. in der Statistik zur politisch motivierten Kriminalität (PMK); unklar, ob Religionskritik oder Abwertung von Menschen gemeint ist |
+| Muslimfeindlichkeit | Zuschreibung pauschaler, unveränderbarer, rückständiger und bedrohlicher Eigenschaften gegenüber Muslim:innen | Begriff des Unabhängigen Expertenkreises Muslimfeindlichkeit (UEM 2023) und der Bundesregierung |
+| Antimuslimischer Rassismus | Rassifizierung: betroffen sind auch Menschen, die nur als muslimisch gelesen werden | rassismuskritische Forschung (Attia 2009; Shooman 2014) |
+
+: Begriffe im Vergleich {#tbl-amr-begriffe}
+
+Iman Attia beschreibt, dass Muslim:innen und als muslimisch markierte Menschen als homogene, essentialistische und dichotome Gruppe konstruiert werden, die im Verhältnis zur ebenfalls konstruierten Eigengruppe als weniger zivilisiert, emanzipiert, frei und fortschrittlich gilt (Attia 2014). Darin stecken vier Mechanismen: **Dichotomisierung** (der Islam als unvereinbar mit „westlichen Werten“), **Homogenisierung** (innermuslimische Vielfalt verschwindet), **Naturalisierung** (Eigenschaften erscheinen als Wesen) und **Hierarchisierung** (die Eigengruppe gilt als höherwertig).
+
+Die Abgrenzung ist für die Praxis wichtig: Religionskritik zielt auf Lehren und Praktiken. Antimuslimischer Rassismus schreibt Menschen pauschal Eigenschaften zu.
+
+## 3. Einstellungen und Zahlen
+
+Muslimfeindliche Einstellungen sind kein Randphänomen. Nach dem Unabhängigen Expertenkreis stimmt etwa jede zweite Person in Deutschland muslimfeindlichen Aussagen zu, und das seit rund 20 Jahren stabil (UEM 2023). Der Religionsmonitor 2023 (Erhebung 2022, also vor dem 7. Oktober 2023) bestätigt weit verbreitete Vorbehalte; Jüngere zeigen deutlich weniger Vorbehalte als Ältere (Bertelsmann Stiftung 2024). Nach der Leipziger Autoritarismus-Studie 2024 fühlt sich in Ost und West knapp jede:r Zweite durch Muslim:innen „fremd im eigenen Land“ (Decker et al. 2024), auch dort, wo kaum Muslim:innen leben.
+
+Von Einstellungen führt ein Weg zu Taten. 2024 erfasste die Polizei mit 1.848 islamfeindlichen Straftaten einen Höchststand, 2025 waren es 1.753. Die zivilgesellschaftliche Allianz CLAIM dokumentierte 2025 insgesamt 4.096 antimuslimische Vorfälle, rund ein Drittel mehr als 2024. 71 Prozent der 2024 dokumentierten Fälle betrafen Frauen; 22 Prozent der Vorfälle ereigneten sich in Bildungseinrichtungen, nach dem öffentlichen Raum der zweithäufigste Ort. Der Unterschied zwischen Polizei- und Zivilgesellschaftszahlen erklärt sich u. a. dadurch, dass CLAIM auch Vorfälle unterhalb der Strafbarkeitsschwelle erfasst. Der Anstieg spiegelt teilweise den Ausbau der Meldestrukturen; das Dunkelfeld bleibt hoch.
+
+## 4. Medien und Politik
+
+Medien zeichnen wiederkehrende Muster: **Gewalt und Bedrohung** (der Islam als Sicherheitsproblem), die **unterdrückte Frau** (das Kopftuch als Symbol, muslimische Frauen als zu Rettende), **Abschottung** („Parallelgesellschaften“, „Islamisierung“), **Kriminalisierung** („Clan-Kriminalität“), **Homogenisierung** („die Muslime“) und eine **Bildpolitik** aus Frauen mit Kopftuch von hinten, Minaretten und Betenden. Hafez und Richter (2007) fanden, dass 81 Prozent der Islam-Beiträge in Magazinen, Talkshows und Dokumentationen von ARD und ZDF negativ konnotierte Themen behandelten. Problematisch ist dabei weniger der einzelne Beitrag als das Gesamtbild durch Auswahl, Häufung und Bildsprache.
+
+| Jahr | Beispiel | Muster |
+|---|---|---|
+| 2007 | *Der Spiegel*, Titel „Mekka Deutschland. Die stille Islamisierung“ | Bedrohung, Integrationsverweigerung |
+| 2010 | Thilo Sarrazin: *Deutschland schafft sich ab* | Homogenisierung, kulturell-biologistische Argumentation |
+| 2010/2018 | Wulff: „Der Islam gehört inzwischen auch zu Deutschland“ – Seehofer: „… nicht zu Deutschland“ | Wir und die Anderen |
+| 2011 | NSU-Mordserie: Medienbegriff „Döner-Morde“, Unwort des Jahres | Kriminalisierung der Opfer |
+| 2016 | *Focus*-Titel nach der Kölner Silvesternacht | Kriminalisierung, Sexualisierung |
+| 2018 | Alice Weidel im Bundestag: „Burkas, Kopftuchmädchen und alimentierte Messermänner“ | Gender und Bedrohung |
+
+: Darstellungen in Medien und Politik {#tbl-medien}
+
+Diskurse schaffen Legitimationsräume. Die NSU-Morde (2000–2006), bei denen Ermittlungsbehörden jahrelang im Umfeld der Opfer suchten, der Mord an Marwa El-Sherbini im Dresdner Landgericht (2009), die Pegida-Demonstrationen (2014/15) und der rassistische Anschlag von Hanau am 19. Februar 2020 zeigen: Gewalt entsteht nicht im luftleeren Raum. Abwertende Bilder senken die Hemmschwelle für Angriffe.
+
+## 5. Mehrfachdiskriminierung: das Kopftuch
+
+Antimuslimischer Rassismus trifft vor allem Frauen. In einem Feldexperiment mit rund 1.500 fiktiven, gleich qualifizierten Bewerbungen erhielt „Sandra Bauer“ in 18,8 Prozent der Fälle eine Rückmeldung, „Meryem Öztürk“ ohne Kopftuch in 13,5 Prozent, mit Kopftuch nur in 4,2 Prozent (Weichselbaumer 2020). Geschlecht, Religion und Herkunft wirken zusammen (→ [Sitzung 3](03-intersektionalitaet-weisssein.qmd)). Darin liegt ein Paradox: Im Diskurs gilt das Kopftuch als Zeichen der Unterdrückung, faktisch schränken Verbote und Diskriminierung die Teilhabe dieser Frauen ein. Rechtlich hat das Bundesverfassungsgericht 2015 ein pauschales Kopftuchverbot für Lehrkräfte für verfassungswidrig erklärt; das Bundesarbeitsgericht sah 2020 im pauschalen Verbot nach dem Berliner Neutralitätsgesetz eine Benachteiligung wegen der Religion.
+
+::: {.praxis}
+**Für die Praxis heißt das:** Drei Ebenen lassen sich unterscheiden. **Selbstreflexion:** Erkläre ich Verhalten mit „Kultur“ oder mit Lebenslagen? Religion ist eine Facette, nicht die Identität. **Professionelles Handeln:** Diskriminierungserfahrungen ernst nehmen und dokumentieren, an Antidiskriminierungsberatung und Meldestellen verweisen, diskriminierungssensibel sprechen. **Strukturen verändern:** Einstellungspraxis, Umgang mit dem Kopftuch, Feiertage und Räume prüfen, mit muslimischen Trägern auf Augenhöhe kooperieren. Grundlage ist das Tripelmandat nach Staub-Bernasconi: Neben Hilfe und Kontrolle verpflichten die Menschenrechte.
+:::
+
+## Zur Vertiefung
+
+::: {.callout-tip title="Schlagzeilen-Analyse (Gruppen à 4–5, 15 Minuten)"}
+Wählen Sie ein Beispiel aus @tbl-medien oder ein aktuelles aus Ihrem Feed.
+
+1. **Wer spricht über wen?** Kommen Muslim:innen selbst zu Wort?
+2. **Wie wird dargestellt?** Welche Begriffe, Bilder und Verallgemeinerungen, welches Muster?
+3. **Welche Wirkung?** Was macht das mit muslimischen Jugendlichen, Ihren künftigen Adressat:innen?
+4. **Wie ginge es anders?** Formulieren Sie eine nicht-diskriminierende Überschrift zum selben Sachverhalt.
+:::
+
+::: {.callout-tip title="Reflexionsfrage"}
+Wie reagieren Sie, wenn Kolleg:innen über Adressat:innen sagen: „Das ist bei denen halt so“?
+:::
+
+**Zum Weiterlesen:** Attia, Iman (2009): Die „westliche Kultur“ und ihr Anderes. Bielefeld: transcript. · Shooman, Yasemin (2014): „… weil ihre Kultur so ist“. Narrative des antimuslimischen Rassismus. Bielefeld: transcript. · Unabhängiger Expertenkreis Muslimfeindlichkeit (2023): Muslimfeindlichkeit – Eine deutsche Bilanz. Berlin: BMI. · Weichselbaumer, Doris (2020): Multiple Discrimination against Female Immigrants Wearing Headscarves. In: ILR Review 73 (3), S. 600–627.

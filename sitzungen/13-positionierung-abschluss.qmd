@@ -1,0 +1,89 @@
+---
+title: "Sitzung 13: Positionierung, Privilegien und Abschluss"
+subtitle: "21.01.2027"
+---
+
+::: {.callout-note appearance="simple" icon=false}
+### Leitfrage
+Wie lassen sich Dilemmata rassismuskritischer Praxis professionell bearbeiten, und was nehmen Sie für Ihre eigene Haltung als Fachkraft mit?
+:::
+
+Ein Kind aus einer Roma-Familie fehlt häufig in der Schule. Im Hilfeplangespräch schlägt eine Kollegin vor, „kulturelle Vorbehalte gegenüber Institutionen“ als Erklärung in den Bericht aufzunehmen. Das nehme Druck aus dem Verfahren und nütze der Familie. Eine andere Kollegin hält das für Kulturalisierung, die strukturelle Diskriminierung durch die Schule, Armut und fehlende Unterstützung unsichtbar macht. Beide wollen der Familie helfen. Was schreiben Sie in einen Bericht, der auch vor Gericht landen kann? Die letzte Sitzung arbeitet mit solchen Dilemmata. Sie haben keine einfache Lösung, und genau darin liegt ihr Wert für die Reflexion.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Themen
+
+- Rückblick: Begriffe, Theorien, Erscheinungsformen, Handeln
+- Dilemmata rassismuskritischer Praxis
+- Positionierung als professionelle Kompetenz
+- Transfer in die eigene Praxis
+:::
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Zentrale Begriffe
+
+- Positionierung, Privileg, Verstrickung
+- Verantwortung statt Schuld
+- Handlungsfähigkeit trotz Verstrickung
+:::
+
+:::
+
+## 1. Rückblick
+
+Das Semester folgte einer Logik: Theoretische Werkzeuge aufbauen, Erscheinungsformen theoriegeleitet analysieren, in der Praxis handeln, die eigene Position reflektieren.
+
+| Block | Kernaussage |
+|---|---|
+| I · Begriffe und Theorien | Rassismus ist ein gesellschaftliches Verhältnis, kein bloßes Vorurteil. Postkoloniale Theorie, CRT, Intersektionalität und Kritisches Weißsein machen seine Strukturen sichtbar. |
+| II · Erscheinungsformen | Antimuslimischer Rassismus, türkischer Ultranationalismus und Antisemitismus funktionieren unterschiedlich und brauchen eine differenzierte Analyse. |
+| III · Praxisfelder und Handlungsansätze | Kulturalisierung ist die häufigste Falle. Empowerment, politische Bildung und Antidiskriminierungsarbeit eröffnen Handlungsmöglichkeiten. |
+| IV · Organisation und Positionierung | Rassismuskritik muss in Strukturen ankommen und beginnt bei der eigenen Position, endet dort aber nicht. |
+
+: Das Semester im Überblick {#tbl-rueckblick}
+
+## 2. Dilemmata rassismuskritischer Praxis
+
+Rassismuskritische Praxis bewegt sich in Spannungsfeldern. Häufig stehen zwei berechtigte Anliegen gegeneinander. Die folgenden Situationen dienen als Material für die Abschlussdiskussion.
+
+**Zielgruppenprojekt.** Ein Träger erhält Fördermittel für ein Empowerment-Projekt „für Mädchen mit Migrationsgeschichte“. Die Mädchen nehmen gern teil. Eine Praktikantin kritisiert, die Ausschreibung definiere Mädchen allein über Herkunft und bediene damit die Schublade, die man auflösen will. Die Kolleginnen, die das Projekt aufgebaut haben, fühlen sich zu Unrecht angegriffen.
+
+**Fallübernahme nach Herkunft.** Eine geflüchtete Klientin bittet um eine Betreuerin mit gleicher Herkunftssprache. Die einzige Kollegin mit dieser Sprache lehnt ab; sie will nicht automatisch für alle Fälle aus „ihrer“ Community zuständig sein.
+
+**Weiße Verunsicherung.** Nach einer Fortbildung zu Rassismuskritik wird ein weißer Kollege im Kontakt mit Klientinnen of Color auffällig zurückhaltend, aus Angst, etwas Falsches zu sagen. Die Klientinnen erleben ihn als distanziert. War die Fortbildung kontraproduktiv, oder ist das eine notwendige Zwischenphase?
+
+**Schweigen aus Rücksicht.** Eine unbegleitete minderjährige Klientin wird in der Unterkunft rassistisch beleidigt, bittet aber ausdrücklich darum, nichts zu unternehmen. Sie fürchtet, danach isoliert zu sein. Schutzpflicht und Wille der Klientin stehen gegeneinander.
+
+**Kultursensibilität und Kinderschutz.** Eine Mutter äußert den Wunsch, ihre Tochter im Herkunftsland „traditionell beschneiden“ zu lassen. Ab wann wird „kultursensibel“ zum Deckmantel für das Wegsehen bei Gewalt?
+
+**Rassismus unter Minderheiten.** In einer Unterkunft beleidigt ein Bewohner einen anderen rassistisch; beide sind nicht weiß, gehören aber unterschiedlichen Gruppen mit eigener Diskriminierungsgeschichte an. Ist das „Rassismus“ im fachlichen Sinn, und ändert die begriffliche Frage etwas an der pädagogischen Reaktion? (→ [Sitzung 5](05-graue-woelfe.qmd))
+
+**Hierarchisierung von Diskriminierung.** In einer Fortbildung wird behauptet, antimuslimischer Rassismus sei strukturell wirkmächtiger als Antisemitismus. Ein jüdischer Kollege empfindet das als Relativierung. Lässt sich Diskriminierung vergleichend gewichten, ohne Betroffene gegeneinander auszuspielen?
+
+## 3. Positionierung als professionelle Kompetenz
+
+Rassismuskritik heißt nicht, die richtige Antwort auf jedes Dilemma zu kennen. Sie heißt, die eigene Position in solchen Situationen mitzudenken: Was sehe ich von meinem Standort aus, und was nicht (→ [Sitzung 3](03-intersektionalitaet-weisssein.qmd))? Wessen Perspektive fehlt in der Entscheidung? Wer trägt die Folgen?
+
+Drei Verkürzungen sind dabei zu vermeiden. Die erste ist die **Abwehr**, die Rassismus bei anderen verortet. Die zweite ist die **Lähmung**, die aus Angst vor Fehlern nicht mehr handelt; der verunsicherte Kollege aus Abschnitt 2 steht dafür. Die dritte ist die **Selbstbespiegelung**, die bei Bekenntnissen und Schuldgefühlen stehen bleibt. Der professionelle Weg liegt dazwischen: Verantwortung übernehmen, handlungsfähig bleiben, Fehler korrigieren. Der Maßstab bleibt, ob sich für Betroffene etwas ändert.
+
+::: {.praxis}
+**Für die Praxis heißt das:** Rassismuskritik ist kein Abschluss, sondern eine fortlaufende Aufgabe. Sie braucht Wissen, um Situationen einzuordnen, Räume für Reflexion in Supervision und Team, und Strukturen, die Handeln absichern. Für jede Fachkraft beginnt sie bei der Frage, die das ganze Semester begleitet hat: Wer zieht die Linie zwischen „Wir“ und „den Anderen“, und was tue ich, damit sie nicht über Teilhabe entscheidet?
+:::
+
+## Zur Vertiefung
+
+::: {.callout-tip title="Dilemma-Werkstatt (Kleingruppen, 30 Minuten)"}
+Wählen Sie eines der Dilemmata aus Abschnitt 2.
+
+1. Welche beiden berechtigten Anliegen stehen gegeneinander?
+2. Welche Theorien und Begriffe aus dem Semester helfen bei der Analyse?
+3. Wie würden Sie entscheiden, und wie begründen Sie die Entscheidung gegenüber der Person, deren Anliegen zurücksteht?
+:::
+
+::: {.callout-tip title="Abschlussreflexion"}
+Vergleichen Sie Ihre Definition von Rassismus aus der ersten Sitzung mit Ihrem heutigen Verständnis. Was hat sich verschoben? Und welche Situation aus Ihrer Praxis sehen Sie heute anders?
+:::
+
+**Zum Weiterlesen:** Melter, Claus/Mecheril, Paul (Hrsg.) (2009): Rassismuskritik. Band 1. Schwalbach/Ts.: Wochenschau. · Tißberger, Martina (2017): Critical Whiteness. Wiesbaden: Springer VS. · Prasad, Nivedita (Hrsg.) (2018): Soziale Arbeit mit Geflüchteten. Opladen/Toronto: Budrich (UTB).

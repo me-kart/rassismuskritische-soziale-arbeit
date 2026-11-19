@@ -1,0 +1,100 @@
+---
+title: "Sitzung 10: Politische Bildung und Antidiskriminierungsarbeit"
+subtitle: "10.12.2026"
+---
+
+::: {.callout-note appearance="simple" icon=false}
+### Leitfrage
+Was unterscheidet eine Kultur der Anerkennung von bloßer Toleranz, und welche Instrumente hat die Soziale Arbeit, um Ideologien der Ungleichwertigkeit und Diskriminierung entgegenzutreten?
+:::
+
+Ein Club verweigert drei jungen Männern of Color den Einlass, ihre weißen Freunde dürfen hinein. Die Jugendlichen erzählen es am nächsten Tag im Jugendtreff, halb wütend, halb resigniert: „Ist halt so.“ Ist es nicht. Nach dem Allgemeinen Gleichbehandlungsgesetz (AGG) können sie eine Entschädigung verlangen, Gerichte haben sie in vergleichbaren Fällen bereits zugesprochen. Allerdings nur, wenn jemand sie rechtzeitig darauf hinweist. Die Sitzung verbindet zwei Handlungsfelder: politische Bildung, die Haltungen stärkt, und Antidiskriminierungsarbeit, die Rechte durchsetzt.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Themen
+
+- Rassismuskritik als Kern menschenrechtsbasierter Sozialer Arbeit (Prasad)
+- Kultur der Anerkennung und Ideologien der Ungleichwertigkeit
+- Antidiskriminierungsrecht: AGG, Stärken und Lücken
+- Antidiskriminierungs- und Betroffenenberatung
+- Argumentationstrainings
+:::
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Zentrale Begriffe
+
+- Menschenrechtsprofession
+- Kultur der Anerkennung
+- Ideologie der Ungleichwertigkeit
+- AGG, Testing, Parteilichkeit
+:::
+
+:::
+
+## 1. Rassismuskritik als professionelle Pflicht
+
+Nivedita Prasad (Alice Salomon Hochschule Berlin) begründet in einem Videovortrag (2020), warum Rassismuskritik zum Kern einer menschenrechtsbasierten Sozialen Arbeit gehört. Ihre zentralen Argumente lassen sich in vier Punkten bündeln:
+
+- **Menschenrechte ohne Diskriminierungskritik bleiben leer.** Eine Menschenrechtsorientierung, die Rassismus nicht benennt, verfehlt ihren eigenen Anspruch.
+- **Rassismus ist strukturell**, er zeigt sich in Institutionen, Verfahren, Sprache und Normen. Soziale Arbeit kann ihn reproduzieren, auch ohne Absicht.
+- **Neutralität ist keine Option.** Wenn Einrichtungen rassistische Strukturen nicht hinterfragen, werden sie zu deren Trägern.
+- **Rassismuskritik ist professionelle Pflicht.** Aus dem Selbstverständnis als Menschenrechtsprofession folgen Selbstreflexion, Positionierung und aktive Diskriminierungsbekämpfung.
+
+## 2. Kultur der Anerkennung versus Ideologien der Ungleichwertigkeit
+
+Zwei Begriffe stehen sich gegenüber:
+
+| Begriff | Bedeutung |
+|---|---|
+| Kultur der Anerkennung | professionelle Haltung und institutionelle Praxis, die Würde, Rechte und Identität jedes Menschen als gleichwertig anerkennt und aktiv schützt |
+| Ideologie der Ungleichwertigkeit | Überzeugungen und Praktiken, die Menschen nach Herkunft, Hautfarbe oder Status hierarchisch einordnen und abwerten; der gemeinsame Kern gruppenbezogener Menschenfeindlichkeit (Heitmeyer) |
+| Positionierungsarbeit | Reflexion der eigenen gesellschaftlichen Position als professionelle Grundkompetenz |
+
+: Begriffe zur Diskussion {#tbl-anerkennung}
+
+Anerkennung geht dabei über Toleranz hinaus. Toleranz duldet, was als fremd gilt, und belässt die Definitionsmacht bei der Mehrheit. Anerkennung erkennt Menschen als gleichberechtigt an und schützt ihre Rechte aktiv (Borstel/Bozay 2020). Politische Bildung in der Sozialen Arbeit setzt hier an: Sie schafft Räume, in denen Ungleichwertigkeitsvorstellungen besprechbar werden, ohne sie stehen zu lassen.
+
+## 3. Antidiskriminierungsrecht
+
+Das AGG von 2006 schützt vor Benachteiligung u. a. aus rassistischen Gründen und wegen der ethnischen Herkunft, im Arbeitsleben und bei Alltagsgeschäften wie Wohnungsvermietung oder Clubeinlass. Es sieht Entschädigung und Schadensersatz sowie eine Beweiserleichterung vor (§ 22 AGG): Legen Betroffene Indizien vor, muss die Gegenseite beweisen, dass keine Diskriminierung vorlag.
+
+| Stärken | Lücken |
+|---|---|
+| benennt rassistische Diskriminierung als Unrecht | staatliches Handeln (Schule, Polizei, Behörden) außerhalb Berlins kaum erfasst; Berlin hat 2020 ein Landesantidiskriminierungsgesetz (LADG) beschlossen |
+| ermöglicht Entschädigung und Schadensersatz | kurze Frist von zwei Monaten zur Geltendmachung |
+| Beweiserleichterung bei Indizien | kein umfassendes Verbandsklagerecht |
+| Antidiskriminierungsstelle des Bundes als Anlaufstelle | der Begriff „Rasse“ in Grundgesetz und AGG ist umstritten |
+
+: Das AGG: Stärken und Lücken {#tbl-agg}
+
+Eine Reform des AGG ist seit Jahren angekündigt. Den aktuellen Stand sollten Sie vor einer Beratung prüfen.
+
+## 4. Beratung für Betroffene
+
+**Antidiskriminierungsberatung** hilft Betroffenen, Diskriminierung zu benennen, Rechte durchzusetzen und Strukturen zu verändern. Der Antidiskriminierungsverband Deutschland (advd) hat dafür Qualitätsstandards formuliert. Instrumente sind etwa **Testing**, bei dem zwei gleichwertige Bewerbungen sich nur im Namen unterscheiden, und strategische Prozessführung. In den Jahresberichten der Antidiskriminierungsstelle des Bundes ist rassistische Diskriminierung der häufigste Anlass für Beratungsanfragen.
+
+Daneben unterstützen spezialisierte Beratungsstellen Betroffene rechter, rassistischer und antisemitischer Gewalt, **parteilich und unabhängig**. Sie begleiten zu Polizei und Gericht, helfen bei Entschädigungsanträgen und machen Angriffe öffentlich, in Bayern etwa B.U.D. Bayern. Der Verband der Beratungsstellen (VBRG) dokumentiert in seiner Jahresstatistik Angriffe, die in Polizeistatistiken oft fehlen.
+
+## 5. Argumentationstrainings
+
+Argumentationstrainings gegen Stammtischparolen (Hufer 2000) zielen auf Handlungssicherheit im Alltag. Im Rollenspiel sagt etwa ein Onkel bei der Familienfeier: „Die nehmen uns die Wohnungen weg.“ Die Teilnehmenden üben, nachzufragen, Grenzen zu setzen und sich solidarisch mit Betroffenen zu zeigen. Positionieren ist dabei wichtiger als Überzeugen, und der Schutz Betroffener hat Vorrang davor, die Sprechenden umzustimmen.
+
+::: {.praxis}
+**Für die Praxis heißt das:** Fachkräfte müssen keine Jurist:innen sein, sollten aber Grundzüge des AGG und die Zwei-Monats-Frist kennen und wissen, wohin sie verweisen können: an Antidiskriminierungsberatung, Betroffenenberatung oder Meldestellen. Politische Bildung und Antidiskriminierungsarbeit ergänzen sich. Die eine stärkt Haltungen, die andere sorgt dafür, dass Rechte nicht auf dem Papier bleiben.
+:::
+
+## Zur Vertiefung
+
+::: {.callout-tip title="Diskussionsfragen für das Plenum"}
+1. Prasad sagt, Menschenrechtsorientierung ohne Diskriminierungskritik sei in der Praxis häufig anzutreffen. Warum könnte das so sein?
+2. Was ist der Unterschied zwischen einer Kultur der Anerkennung und bloßer Toleranz? Reicht Toleranz?
+3. Wie verhalten Sie sich, wenn Sie im Team einen rassistischen Kommentar hören, von einer Kollegin, nicht von einer Klientin?
+:::
+
+::: {.callout-tip title="Reflexionsfrage"}
+Was bedeutet Positionierungsarbeit, und warum ist sie eine professionelle Kompetenz und keine Privatsache?
+:::
+
+**Zum Weiterlesen:** Borstel, Dierk/Bozay, Kemal (Hrsg.) (2020): Kultur der Anerkennung statt Menschenfeindlichkeit. Antworten für die pädagogische und politische Praxis. Weinheim: Beltz Juventa. · Hufer, Klaus-Peter (2000): Argumentationstraining gegen Stammtischparolen. Schwalbach/Ts.: Wochenschau. · Prasad, Nivedita (Hrsg.) (2018): Soziale Arbeit mit Geflüchteten. Opladen/Toronto: Budrich (UTB).

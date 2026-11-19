@@ -1,0 +1,108 @@
+---
+title: "Sitzung 11: Handlungsmöglichkeiten und Methoden"
+subtitle: "17.12.2026"
+---
+
+::: {.callout-note appearance="simple" icon=false}
+### Leitfrage
+Was können Fachkräfte konkret tun, wenn Rassismus im Alltag ihrer Einrichtung sichtbar wird, und welche Präventionsansätze wirken nach heutigem Wissensstand?
+:::
+
+Im Jugendtreff sagt Tobias (15) lachend zu Mehmet und seinen Freunden: „Ihr Leute seid halt einfach so, immer laut, immer dramatisch.“ Als Mehmet sich beschwert, kommt: „War doch nur Spaß, ich bin nicht rassistisch, ich hab doch auch türkische Freunde.“ Die Stimmung kippt. Einige lachen nervös, andere schauen weg. Die diensthabende Sozialarbeiterin hat alles gesehen. Was jetzt? Eine zu harte Intervention kann Mehmet bloßstellen und Tobias in die Abwehr treiben. Nicht-Handeln dagegen signalisiert allen im Raum, dass solche Sätze normal sind. Die Sitzung bündelt Handlungsmöglichkeiten und arbeitet sie an Fällen durch.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Themen
+
+- Intervenieren im Alltag
+- Ebenen der Prävention
+- Was über Wirksamkeit bekannt ist
+- Fallwerkstatt: acht Fälle aus der Jugendhilfe
+:::
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Zentrale Begriffe
+
+- Erkennen, Benennen, Intervenieren
+- universelle, selektive, indizierte, strukturelle Prävention
+- Kontakthypothese
+- Paternalismus
+:::
+
+:::
+
+## 1. Intervenieren im Alltag
+
+Rassistische Situationen im pädagogischen Alltag folgen selten einem Drehbuch. Hilfreich ist eine einfache Abfolge aus drei Schritten: **Erkennen**, **Benennen** und **Intervenieren**. Dazu gehören einige Grundsätze:
+
+- **Betroffene zuerst:** Wer angegriffen wurde, braucht Schutz und Unterstützung, bevor die sprechende Person überzeugt werden soll.
+- **Nicht relativieren:** Sätze wie „Das war sicher nicht so gemeint“ verschieben die Last auf die Betroffenen. Entscheidend ist die Wirkung, nicht die Absicht.
+- **Verhalten statt Person:** Die Aussage klar zurückweisen, ohne die Person abzuschreiben. „Ich bin nicht rassistisch, ich habe doch türkische Freunde“ lässt sich aufgreifen: Es geht nicht um Gesinnung, sondern darum, was der Satz bei anderen auslöst.
+- **Nachbereiten:** Mit Betroffenen, mit der Gruppe und im Team. Eine einzelne Intervention ersetzt keine gemeinsamen Regeln.
+
+## 2. Ebenen der Prävention
+
+| Ebene | Zielgruppe | Beispiele |
+|---|---|---|
+| Universell (primär) | alle, etwa eine ganze Schulklasse | Anti-Bias-Bildung, Demokratiepädagogik, Medienbildung |
+| Selektiv (sekundär) | Gruppen mit erhöhtem Risiko | Arbeit mit rechtsaffinen Cliquen, Argumentationstrainings |
+| Indiziert (tertiär) | Personen mit verfestigten Einstellungen oder Taten | Distanzierungs- und Ausstiegsarbeit |
+| Strukturell | Organisationen | rassismuskritische Organisationsentwicklung, Beschwerdestellen, Leitbilder |
+
+: Ebenen der Prävention {#tbl-praevention}
+
+Kritisch ist anzumerken, dass Prävention sich oft an potenzielle Täter:innen richtet; Schutz und Stärkung Betroffener kommen zu kurz. Strukturelle Prävention wird selten gefördert.
+
+## 3. Was wirkt?
+
+Am besten belegt ist die **Kontakthypothese**: Mehr als 500 Studien zeigen, dass mehr Kontakt mit weniger Vorurteilen einhergeht (Pettigrew/Tropp 2006). Das gilt aber nur unter Bedingungen, vor allem bei Kooperation und gleichem Status. Bei ungleichem Status kann Kontakt Stereotype sogar verstärken, und er verändert allein keine Strukturen. Viele Interventionen wirken kurzfristig, gute Langzeitstudien sind selten (Paluck et al. 2021). Trainings zu impliziten Vorurteilen ändern Testwerte, aber kaum Verhalten (Forscher et al. 2019).
+
+| Wirkt eher | Wirkt kaum oder ist umstritten |
+|---|---|
+| Kontakt mit Kooperation und gleichem Status | einmalige Workshops ohne Folgen |
+| längerfristige Programme | Schuldappelle und Moralisieren |
+| Strukturveränderung: Verfahren, Beschwerdewege, Recht | reine Wissensvermittlung |
+| Beteiligung und Stärkung Betroffener | Übungen, die Betroffene bloßstellen |
+
+: Was folgt aus der Wirkungsforschung? {#tbl-wirkung}
+
+## 4. Fallwerkstatt
+
+Die folgenden Fälle stammen aus dem Praxisfeld Jugendhilfe und knüpfen an die vorherigen Sitzungen an (Fallsammlung nach Özdemir/Högerl 2015).
+
+| Fall | Situation | Thema |
+|---|---|---|
+| 1 · Amira | „Du sprichst aber gut Deutsch“ in der Wohngruppe | Mikroaggressionen |
+| 2 · Kaan | Mittelschulempfehlung trotz Notendurchschnitt 2,1 | institutioneller Rassismus in der Schule |
+| 3 · Tobias und Mehmet | „Ihr Leute seid halt so“ im Jugendtreff | Intervention, sichere Räume |
+| 4 · Nadia | Beraterin fragt zuerst nach Religion und Erziehung | Kulturalisierung in der Beratung |
+| 5 · Wohngruppe | Kontrolle ohne Anlass; die Leitung will „keine Probleme mit der Polizei“ | Racial Profiling, Verantwortung des Trägers |
+| 6 · Ramadan | feste Essenszeiten; „Gleichbehandlung heißt gleiche Regeln“ | Regeln mit ausschließender Wirkung |
+| 7 · Yasmin | Sozialpädagogin empfiehlt Auszug; Yasmin will, dass die Eltern sie ernst nehmen | Empowerment oder Paternalismus |
+| 8 · Team | gespaltenes Team nach rassistischer Äußerung einer Kollegin | Teamkultur, institutionelle Verankerung |
+
+: Acht Fälle aus der Jugendhilfe {#tbl-faelle}
+
+Fall 6 zeigt eine typische Figur: Formale Gleichbehandlung kann diskriminierend wirken, wenn eine Regel auf eine Mehrheit zugeschnitten ist. Fall 7 zeigt die Kehrseite gut gemeinter Hilfe: Wer Mädchen „retten“ will, übergeht ihre eigenen Ziele (→ [Sitzung 9](09-paedagogik-empowerment.qmd)).
+
+::: {.praxis}
+**Für die Praxis heißt das:** Rassismuskritisches Handeln braucht Wissen, Routinen und Rückendeckung. Wissen allein reicht nicht, wenn im Moment der Situation die Worte fehlen. Routinen entstehen durch Übung und gemeinsame Regeln. Und Rückendeckung muss von Leitung und Träger kommen, sonst bleibt Intervention das Risiko Einzelner.
+:::
+
+## Zur Vertiefung
+
+::: {.callout-tip title="Fallwerkstatt (Kleingruppen, 30 Minuten)"}
+Jede Gruppe wählt einen Fall aus @tbl-faelle.
+
+1. Welche Ebene von Rassismus wirkt hier: individuell, institutionell, strukturell?
+2. Was wäre eine angemessene Reaktion im Moment, und was mittel- bis langfristig?
+3. Wo liegen die Grenzen Ihrer Rolle, und wen müssten Sie einbeziehen?
+4. Welches Risiko birgt Ihre Intervention, und welches das Nicht-Handeln?
+:::
+
+::: {.callout-tip title="Reflexionsfrage"}
+Welche Präventionsarbeit würden Sie in Ihrer Praxiseinrichtung anstoßen, und warum gerade diese?
+:::
+
+**Zum Weiterlesen:** Paluck, Elizabeth Levy et al. (2021): Prejudice Reduction. Progress and Challenges. In: Annual Review of Psychology 72, S. 533–560. · Pettigrew, Thomas F./Tropp, Linda R. (2006): A Meta-Analytic Test of Intergroup Contact Theory. In: Journal of Personality and Social Psychology 90 (5), S. 751–783. · Özdemir, Halide/Högerl, Astrid (2015): Feministische und rassismuskritische Soziale Arbeit mit Jugendlichen.

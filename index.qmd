@@ -1,0 +1,99 @@
+---
+title: "Seminarüberblick"
+subtitle: "3.02.2 Rassismuskritische Soziale Arbeit: Theorie und Praxis · Soziale Arbeit (B. A.), OTH Regensburg · WiSe 2026/27"
+---
+
+::: {.callout-note appearance="simple" icon=false}
+### Leitfrage der Lehrveranstaltung
+Wie wirkt Rassismus als gesellschaftliches Machtverhältnis, wie zeigt er sich in seinen verschiedenen Erscheinungsformen, und wie kann die Soziale Arbeit ihm professionell begegnen, ohne ihn selbst zu reproduzieren?
+:::
+
+## Worum es geht
+
+Rassismus ist kein Randphänomen und keine bloße „Einstellungssache“. Er ist ein historisch gewachsenes Machtverhältnis, das Zugänge zu Bildung, Arbeit, Wohnen und Anerkennung strukturiert. Die Lehrveranstaltung führt in Begriffe, Theorien und historische Kontexte von Rassismus in der Migrationsgesellschaft ein. Sie analysiert ausgewählte Erscheinungsformen, darunter antimuslimischen Rassismus, türkischen Ultranationalismus und Antisemitismus, und fragt nach Handlungsmöglichkeiten in verschiedenen Praxisfeldern.
+
+Für die Soziale Arbeit ist das Thema doppelt relevant. Viele ihrer Adressat:innen machen Rassismuserfahrungen, in der Schule, auf dem Wohnungsmarkt, bei Behörden. Zugleich ist die Soziale Arbeit selbst nicht neutral: Sie schreibt Bedarfe fest, verteilt Ressourcen und dokumentiert in Akten, wer als „anders“ gilt. Drei Fragen begleiten uns deshalb durch das Semester: Wie lässt sich Rassismus analytisch fassen? Wo reproduziert die Soziale Arbeit rassistische Unterscheidungen, oft ohne es zu wollen? Und was heißt es, rassismuskritisch zu handeln, als Fachkraft, im Team und als Organisation?
+
+## Lernziele
+
+Nach der Lehrveranstaltung können Sie
+
+- Grundbegriffe wie Rassismus, Diskriminierung und gruppenbezogene Menschenfeindlichkeit präzise definieren und voneinander abgrenzen,
+- postkoloniale Theorie, Critical Race Theory, Intersektionalität und Kritische Weißseinsforschung erläutern und als Analysefolie anwenden,
+- ausgewählte Erscheinungsformen von Rassismus und Antisemitismus theoriegeleitet analysieren,
+- individuellen, institutionellen und strukturellen Rassismus in Handlungsfeldern der Sozialen Arbeit erkennen und benennen,
+- rassismuskritische Handlungsansätze wie Empowerment, politische Bildung, Antidiskriminierungsarbeit und Organisationsentwicklung situationsbezogen einsetzen,
+- die eigene Positionierung als Fachkraft reflektieren.
+
+## Die 13 Sitzungen
+
+::: {.block-card .block-1}
+[Block I · Sitzungen 1–3]{.block-badge}
+
+### Begriffe und Theorien
+
+**Schwerpunkt:** Was Rassismus ist und mit welchen Theorien er sich als Machtverhältnis analysieren lässt.
+
+1. [Einführung: Rassismus, Diskriminierung und gruppenbezogene Menschenfeindlichkeit](sitzungen/01-einfuehrung.qmd) · 08.10.2026
+2. [Theorien und Konzepte I: Postkoloniale Theorie und Critical Race Theory](sitzungen/02-postkolonial-crt.qmd) · 15.10.2026
+3. [Theorien und Konzepte II: Intersektionalität und Kritisches Weißsein](sitzungen/03-intersektionalitaet-weisssein.qmd) · 22.10.2026
+:::
+
+::: {.block-card .block-2}
+[Block II · Sitzungen 4–7]{.block-badge}
+
+### Erscheinungsformen
+
+**Schwerpunkt:** Wie sich Rassismus und Antisemitismus konkret zeigen, in Medien, Politik, Organisationen und im Alltag.
+
+4. [Erscheinungsformen von Rassismus I: Antimuslimischer Rassismus](sitzungen/04-antimuslimischer-rassismus.qmd) · 29.10.2026
+5. [Erscheinungsformen von Rassismus II: Graue Wölfe und türkischer Ultranationalismus](sitzungen/05-graue-woelfe.qmd) · 05.11.2026
+6. [Erscheinungsformen des Antisemitismus](sitzungen/06-antisemitismus.qmd) · 12.11.2026 · Gastreferentin: mehrWERT Demokratie
+7. [Israelbezogener Antisemitismus in der Popkultur](sitzungen/07-israelbezogener-antisemitismus.qmd) · 19.11.2026 · Gastreferentin: mehrWERT Demokratie
+:::
+
+::: {.block-card .block-3}
+[Block III · Sitzungen 8–11]{.block-badge}
+
+### Praxisfelder und Handlungsansätze
+
+**Schwerpunkt:** Wie Fachkräfte Kulturalisierung erkennen, Betroffene stärken und gegen Diskriminierung handeln.
+
+8. [Praxisfeld Migration und Flucht: Diskurse um Integration und Exklusion](sitzungen/08-migration-flucht.qmd) · 26.11.2026
+9. [Rassismuskritische Pädagogik, Empowerment und Community Organizing](sitzungen/09-paedagogik-empowerment.qmd) · 03.12.2026
+10. [Politische Bildung und Antidiskriminierungsarbeit: Kultur der Anerkennung versus Ideologien der Ungleichwertigkeit](sitzungen/10-politische-bildung-antidiskriminierung.qmd) · 10.12.2026
+11. [Handlungsmöglichkeiten und Methoden](sitzungen/11-handlungsmoeglichkeiten-methoden.qmd) · 17.12.2026
+:::
+
+::: {.block-card .block-4}
+[Block IV · Sitzungen 12–13]{.block-badge}
+
+### Organisation und Positionierung
+
+**Schwerpunkt:** Wie Rassismuskritik in Organisationen ankommt und was sie für die eigene professionelle Haltung bedeutet.
+
+12. [Organisationale Reflexion: Rassismuskritik in Trägern und Einrichtungen](sitzungen/12-organisationale-reflexion.qmd) · 14.01.2027
+13. [Positionierung, Privilegien und Abschluss: Selbstreflexion und Transfer](sitzungen/13-positionierung-abschluss.qmd) · 21.01.2027
+:::
+
+## Prüfung
+
+Die Lehrveranstaltung schließt mit einer **Studienarbeit** ab:
+
+- Das Thema ist grundsätzlich frei wählbar. Es muss einen Bezug zur Lehrveranstaltung haben und zuvor mit mir abgestimmt werden.
+- Die Arbeit kann auf Deutsch oder Englisch verfasst werden.
+- Der Umfang beträgt 10 Seiten (ohne Deckblatt, inklusive Literaturverzeichnis).
+- Es gelten die Regeln wissenschaftlichen Arbeitens. Für die Literaturrecherche empfehle ich wissenschaftliche Fachdatenbanken.
+
+**Abgabe: 21.01.2027 im ELO.**
+
+## Lehrbücher
+
+- Melter, Claus/Mecheril, Paul (Hrsg.) (2009): Rassismuskritik. Band 1: Rassismustheorie und -forschung. Schwalbach/Ts.: Wochenschau.
+- Scharathow, Wiebke/Leiprecht, Rudolf (Hrsg.) (2009): Rassismuskritik. Band 2: Rassismuskritische Bildungsarbeit. Schwalbach/Ts.: Wochenschau.
+- Fereidooni, Karim/El, Meral (Hrsg.) (2017): Rassismuskritik und Widerstandsformen. Wiesbaden: Springer VS.
+- Prasad, Nivedita (Hrsg.) (2018): Soziale Arbeit mit Geflüchteten. Rassismuskritisch, professionell, menschenrechtsorientiert. Opladen/Toronto: Budrich (UTB).
+
+## Kontakt
+
+Prof. Dr. Mehmet Kart · <mehmet.kart@oth-regensburg.de> · Sprechstunde mittwochs von 10:00 bis 11:00 Uhr (Prüfeninger Straße 58, Raum P 002A) oder virtuell nach Absprache. Fragen sind jederzeit willkommen, in der Veranstaltung, per Mail oder in der Sprechstunde.

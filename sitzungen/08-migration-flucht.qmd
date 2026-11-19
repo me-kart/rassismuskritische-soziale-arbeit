@@ -1,0 +1,87 @@
+---
+title: "Sitzung 8: Praxisfeld Migration und Flucht"
+subtitle: "26.11.2026"
+---
+
+::: {.callout-note appearance="simple" icon=false}
+### Leitfrage
+Wann wird aus einer kulturellen Beschreibung eine Zuschreibung, die Menschen auf ihre Herkunft reduziert, und wie können Fachkräfte das in ihrer Praxis erkennen und vermeiden?
+:::
+
+Amir ist 14 und fällt im Unterricht durch aggressive Reaktionen auf Kritik auf. Die Lehrkraft erklärt: „Bei diesen Familien ist Kritik ein Affront, das ist kulturell so.“ Das Gespräch mit den Eltern wird verschoben, ein Fördergespräch nicht angestoßen. Die Erklärung klingt verständnisvoll, beinahe kultursensibel. Tatsächlich bleibt Amirs Geschichte unsichtbar, die Eltern gelten vorab als unkooperativ, und eine pädagogische Intervention unterbleibt. Die Sitzung untersucht, wie Kulturalisierung, Othering und Zugehörigkeitsordnungen in Praxisfeldern von Migration und Flucht wirken.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Themen
+
+- Drei Schritte zum Vorurteil
+- Kulturalisierung: Definition und Folgen
+- Othering in Schule und Jugendarbeit
+- Zugehörigkeit zwischen Inklusion und Exklusion
+- Strukturelle Bedingungen und Handlungsstrategien
+:::
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Zentrale Begriffe
+
+- Kulturalisierung, Ethnisierung
+- Othering
+- Zugehörigkeitsordnungen
+- Positionierungsreflexion
+:::
+
+:::
+
+## 1. Drei Schritte zum Vorurteil
+
+Beate Küpper beschreibt die Entstehung von Vorurteilen in drei Schritten. Zunächst werden Menschen in ein „Wir“ und „die Anderen“ eingeteilt, etwa nach Herkunft oder Religion (**Kategorisierung**). Dann werden die Kategorien mit Eigenschaften verbunden, die für alle Mitglieder gelten sollen (**Stereotypisierung**). Schließlich werden diese Eigenschaften bewertet (**Bewertung**). Viele Elemente gruppenbezogener Menschenfeindlichkeit beruhen auf historisch überlieferten Stereotypen, die Teil unserer kulturellen Erzählungen sind.
+
+## 2. Was ist Kulturalisierung?
+
+Kulturalisierung bezeichnet den Prozess, in dem soziale Probleme, Verhaltensweisen oder Konflikte vorrangig oder ausschließlich auf die kulturelle Herkunft zurückgeführt werden, statt strukturelle, historische oder individuelle Faktoren zu berücksichtigen. Typische Beispiele: Gewalt wird zum „kulturellen Problem“, Geschlechterrollen zu „deren Kultur“, Bildungsbenachteiligung zur „Familienkultur“.
+
+Die Kernlogik lässt sich in vier Schritten fassen: Wir definieren das „Andere“, Differenz wird naturalisiert, eine Machthierarchie entsteht, das „Andere“ wird kontrolliert. Kulturalisierung blendet soziale Ursachen aus, homogenisiert Menschen und macht das Individuum unsichtbar. Sie ist dabei nicht nur Ausdruck von Unwissen. Nach Annita Kalpaka (2014) erfüllt sie eine Funktion: Sie stabilisiert Machtverhältnisse und Normalitätsvorstellungen. Der Blick bleibt auf „den Anderen“; Diskriminierung und Rassismus geraten aus dem Blick.
+
+| Kulturalisierende Deutung | Professionell-strukturelle Perspektive |
+|---|---|
+| Verhalten wird auf Herkunft zurückgeführt | Verhalten als mögliches Signal von Stress und Belastung lesen |
+| Individuelle Geschichte bleibt unsichtbar | Familiengeschichte und schulische Erfahrungen erkunden |
+| Eltern werden vorab als unkooperativ konstruiert | Elterngespräch als Kooperationsangebot anstoßen |
+| Pädagogische Intervention unterbleibt | Förder- und Beratungsangebote einholen |
+
+: Der Fall Amir aus zwei Perspektiven {#tbl-amir}
+
+## 3. Othering in der pädagogischen Praxis
+
+Othering bezeichnet Prozesse, in denen Menschen als „anders“, „fremd“ oder „nicht zugehörig“ konstruiert werden (→ [Sitzung 2](02-postkolonial-crt.qmd)). In der Praxis zeigt es sich in Sätzen wie „Wo kommst du eigentlich wirklich her?“ oder „Die muslimischen Mädchen dürfen das nicht.“ Menschen werden als nicht selbstverständlich zugehörig markiert.
+
+In Schule und Bildungseinrichtungen reproduziert sich Othering über eurozentrische Lehrpläne, herkunftsbezogene Leistungserwartungen, Förderschulüberweisungen ohne sachlichen Grund, Schulmedien, die bestimmte Gruppen als Problem zeigen, und Elterngespräche mit kulturellen statt strukturellen Deutungsrahmen. Jugendliche werden dabei nicht als Subjekte, sondern als Repräsentant:innen einer angenommenen „Kultur“ adressiert. Das kann zu Ambivalenz, Scham, Selbstironie oder angepassten Rollenperformances führen (Kalpaka 2014). Auch positiv gemeinte Hervorhebungen von „Multikulturalität“ können zur Zumutung werden, wenn sie Fremdzuschreibungen verstärken.
+
+## 4. Wer gilt als zugehörig?
+
+Zugehörigkeit ist kein natürlicher Zustand. Sie wird ausgehandelt, gewährt und entzogen, beeinflusst durch Sprache, Name, Hautfarbe, Religion, Herkunft und soziale Lage. Die zentrale Frage lautet: Wer muss seine Zugehörigkeit ständig erklären, und wer nicht?
+
+Zwischen den Polen lässt sich ein Kontinuum beschreiben: **Inklusion** (vollständige Zugehörigkeit, Teilhabe und Anerkennung), **Marginalisierung** (formale Zugehörigkeit, aber Ausgrenzung im Alltag) und **Exklusion** (rechtlicher, sozialer oder institutioneller Ausschluss). Paul Mecheril (2003) unterscheidet drei Dimensionen von Zugehörigkeit: Mitgliedschaft (etwa Pass und Aufenthaltsstatus), Wirksamkeit (mitbestimmen, Rechte durchsetzen) und Verbundenheit (biografische und emotionale Bindung). Eine in Regensburg geborene Frau mit Kopftuch ist Staatsbürgerin, erlebt aber, dass ihre Zugehörigkeit ständig infrage gestellt wird.
+
+## 5. Strukturelle Bedingungen
+
+Warum hält sich der Fokus auf „Kultur“ so hartnäckig? Kalpaka (2014) verweist auf Strukturen. Maßnahmen im Umgang mit Migration sind oft additiv; sie verändern das „Normale“ kaum, und interkulturelle Öffnung bleibt häufig oberflächlich. Die Unterscheidung in „wir“ und „sie“ ist in Gesetzen, Organisationslogiken und Zielgruppenlogiken institutionalisiert. Hinzu kommen Arbeitsbedingungen: Prekarisierung, Berichtspflichten und Konkurrenz zwischen Trägern lassen weniger Raum für Beziehungsarbeit und Reflexion.
+
+::: {.praxis}
+**Für die Praxis heißt das:** Vier Strategien lassen sich ableiten. **Reflexivität entwickeln:** eigene Vorannahmen hinterfragen, Supervision und kollegialen Austausch nutzen. **Strukturell denken:** nicht Kultur, sondern Teilhabechancen analysieren, Ressourcen statt Defizite sehen. **Sprache bewusst einsetzen:** spezifisch und kontextbezogen formulieren, niemanden auf eine Eigenschaft reduzieren. **Partizipation stärken:** alle Stimmen hörbar machen. Außerschulische Jugendarbeit kann so Räume für Selbstdefinitionen jenseits ethnisierender Zuschreibungen schaffen.
+:::
+
+## Zur Vertiefung
+
+::: {.callout-tip title="Diskussion (Kleingruppen, 15 Minuten)"}
+1. Können gut gemeinte Maßnahmen, etwa „kultursensible Pädagogik“ oder Diversity-Programme, selbst kulturalisierend wirken? Wo liegt die Grenze?
+2. Worüber wird geschwiegen, wenn über „Kultur“ gesprochen wird?
+3. Wie können Fachkräfte Kulturalisierungs- und Ethnisierungsprozesse im Alltag überhaupt erkennen?
+:::
+
+::: {.callout-tip title="Reflexionsfrage: Positionierung"}
+Wo haben Sie in Ihrer eigenen Bildungsbiografie Othering erfahren, oder selbst ausgeübt? Und wie reagieren Sie, wenn Betroffene Ihren Deutungen widersprechen?
+:::
+
+**Zum Weiterlesen:** Mecheril, Paul (2003): Prekäre Verhältnisse. Über natio-ethno-kulturelle (Mehrfach-)Zugehörigkeit. Münster: Waxmann. · Mecheril, Paul et al. (2010): Migrationspädagogik. Weinheim: Beltz.

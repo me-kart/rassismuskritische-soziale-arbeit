@@ -1,0 +1,27 @@
+---
+title: "Rassismuskritische Soziale Arbeit: Lernspiele"
+---
+
+Begriffe der Rassismuskritik wirken auf den ersten Blick abstrakt. Sie entscheiden aber darüber, wie wir Situationen deuten. Wer Vorurteil und Rassismus gleichsetzt, sucht Rassismus nur in Köpfen und übersieht Routinen. Wer Kulturalisierung für Kultursensibilität hält, reproduziert Zuschreibungen in bester Absicht. Und wer nicht erkennt, welche Theorie hinter einer Aussage steht, übersieht, was diese Theorie sichtbar macht.
+
+Die beiden Lernspiele auf dieser Seite helfen, die Begriffe sicher zu verwenden. Im Memory ordnen Sie zehn Grundbegriffen ihre Definitionen zu. Im zweiten Spiel ordnen Sie acht Aussagen aus der Praxis einer Theorie zu und begründen Ihre Wahl. Planen Sie für beide Spiele etwa 20 Minuten ein.
+
+## Memory: Begriffe und Definitionen {#sec-memory}
+
+::: {.callout-tip title="Lernspiel: Memory"}
+Finden Sie die zehn Paare aus Begriff und Definition. Jedes gefundene Paar zeigt die Definition vollständig an.
+
+<iframe class="lernspiel" src="interactions/rassismus-memory.html" height="760" loading="lazy" title="Memory: Grundbegriffe der Rassismuskritik">
+
+</iframe>
+:::
+
+## Aussagen zuordnen {#sec-zuordnen}
+
+::: {.callout-tip title="Lernspiel: Aussagen zuordnen"}
+Lesen Sie jede Aussage und notieren Sie in einem Satz, welches Merkmal für Ihre Zuordnung entscheidet. Wählen Sie dann eine der vier Perspektiven: postkoloniale Theorie, Critical Race Theory, Intersektionalität oder Kritisches Weißsein. Nach jeder Wahl erklärt ein Satz, warum sie passt oder nicht. Mit „Vorherige Aussage“ können Sie frühere Aussagen erneut ansehen. Die Theorien sind in den Sitzungen [2](sitzungen/02-postkolonial-crt.qmd) und [3](sitzungen/03-intersektionalitaet-weisssein.qmd) erläutert.
+
+<iframe class="lernspiel" src="interactions/rassismus-zuordnen.html" height="700" loading="lazy" title="Aussagen den Theorien der Rassismuskritik zuordnen">
+
+</iframe>
+:::

@@ -1,0 +1,90 @@
+---
+title: "Sitzung 9: Rassismuskritische Pädagogik, Empowerment und Community Organizing"
+subtitle: "03.12.2026"
+---
+
+::: {.callout-note appearance="simple" icon=false}
+### Leitfrage
+Wie hat sich die Pädagogik im Umgang mit Migration und Rassismus entwickelt, und wie können Fachkräfte Räume für Empowerment und Selbstorganisation schaffen, ohne Betroffene zu bevormunden?
+:::
+
+Amira ist 16, kam aus Syrien und lebt seit zwei Jahren in einer Wohngruppe der Jugendhilfe. Eine Mitarbeiterin lobt sie regelmäßig: „Du sprichst aber wirklich gut Deutsch, das ist toll!“ Amira erzählt ihrer Bezugsbetreuerin, dass sie diese Sätze unangenehm findet, aber nicht weiß, warum. Sie fragt sich, ob sie „zu empfindlich“ sei. Die Szene zeigt zweierlei: wie Rassismus ohne böse Absicht wirkt, und wie wichtig es ist, dass junge Menschen Worte für solche Erfahrungen finden. Die Sitzung stellt pädagogische Ansätze vor und fragt, was Empowerment in der Praxis bedeutet.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Themen
+
+- Von der Ausländerpädagogik zur Rassismuskritik
+- Migrationspädagogik und Anti-Bias-Ansatz
+- Lebenslagen junger Migrantinnen
+- Empowerment und Powersharing
+- Selbstorganisationen und Community Organizing
+:::
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Zentrale Begriffe
+
+- Rassismuskritik und Antirassismus
+- Migrationspädagogik
+- Empowerment, Safer Spaces
+- Powersharing, Selbstorganisation
+:::
+
+:::
+
+## 1. Vier pädagogische Antworten
+
+Die Pädagogik hat auf Migration und Rassismus unterschiedlich reagiert. Die Entwicklung lässt sich in vier Stationen beschreiben:
+
+| Ansatz | Zeit | Blick | Typische Praxis |
+|---|---|---|---|
+| Ausländerpädagogik | 1970er | Defizit, Sprachförderung, Rückkehr | Förderklassen für „Ausländerkinder“ |
+| Interkulturelle Pädagogik | 1980er/90er | Begegnung und Anerkennung von Vielfalt (Auernheimer) | Interkulturelles Fest in der Kita |
+| Antirassistische Pädagogik | 1980er (UK) | Rassismus als Machtstruktur | Workshop zu Diskriminierung in der Schule |
+| Migrationspädagogik | ab 2000er | Zugehörigkeitsordnungen, Rassismuskritik (Mecheril) | Analyse, wer in der Einrichtung als „anders“ gilt |
+
+: Von der Ausländerpädagogik zur Rassismuskritik {#tbl-paedagogik}
+
+Die antirassistische Erziehung kritisierte Ansätze, die Kultur auf Feste und Folklore reduzieren. Ein „Internationaler Tag“ in der Kita ersetzt keine Auseinandersetzung mit Diskriminierung. Die **Migrationspädagogik** verschiebt den Blick noch weiter: Nicht „die Migrant:innen“ sind das Thema, sondern die Ordnungen, die zwischen „Wir“ und „Nicht-Wir“ unterscheiden. Statt eines Kurses „Wie ticken arabische Familien?“ fragt sie, welche Bilder das Team von diesen Familien hat und wie sie die Hilfeplanung prägen (Mecheril et al. 2010).
+
+Für die frühe Bildung hat sich der **Anti-Bias-Ansatz** (Derman-Sparks 1989; in Deutschland: Fachstelle Kinderwelten) etabliert. Er verfolgt vier Ziele: Identitäten stärken, Vielfalt erfahren, kritisch denken und aktiv werden, etwa wenn Kinder fragen: „Warum gibt es keine Puppe, die aussieht wie ich?“
+
+## 2. Rassismuskritik und Antirassismus
+
+Beide Begriffe werden oft gleichgesetzt, setzen aber unterschiedliche Akzente. **Antirassismus** steht für klare Gegnerschaft. Seine Stärke ist die klare Position, seine Gefahr das Selbstbild „Wir sind die Guten“, in dem Rassismus immer bei den anderen liegt. **Rassismuskritik** versteht sich als reflexive Haltung. Sie geht davon aus, dass niemand außerhalb rassistischer Verhältnisse steht, und fragt nach der eigenen Verstrickung (Melter/Mecheril 2009). Ihre Gefahr ist die Reflexion ohne Handlung. Soziale Arbeit braucht beides: Haltung und Selbstreflexion.
+
+## 3. Lebenslagen junger Migrantinnen
+
+Junge Migrantinnen unterscheiden sich in Interessen, Bedürfnissen und Entwicklungsaufgaben nicht grundsätzlich von anderen Jugendlichen. Zugleich sind ihre Erfahrungen durch kumulative Ungleichheiten geprägt: Rassismus, Sexismus, Klassismus und rechtliche Unsicherheit wirken zusammen (Özdemir/Högerl 2015). Eine kulturalisierende Sicht führt Probleme auf „Kultur“, „Religion“ oder „Familie“ zurück und individualisiert so strukturelle Probleme. Eine gesellschaftliche Perspektive fragt stattdessen nach den Ausschlussmechanismen von Bildungssystem, Arbeitsmarkt, Migrationspolitik und Geschlechterordnung.
+
+Feministische und rassismuskritische Soziale Arbeit ergänzen sich dabei. Die eine erkennt Mädchen als handelnde Subjekte an, nicht als Opfer. Die andere versteht Rassismus als Strukturproblem und reflektiert institutionelle Routinen. Beide verbindet eine Warnung: Mädchen nicht „befreien wollen“, sondern in ihren Aushandlungsprozessen begleiten und auch westlich-emanzipatorische Normen kritisch prüfen.
+
+## 4. Empowerment und Powersharing
+
+Empowerment aus der Perspektive von People of Color bedeutet, dass Menschen mit Rassismuserfahrung sich gegenseitig stärken, in geschützten Räumen (**Safer Spaces**), durch Selbstorganisation und Selbstbenennung (Can 2011). Ein Beispiel sind Empowerment-Workshops für Jugendliche of Color in der offenen Jugendarbeit: Erfahrungen teilen und Strategien entwickeln, ohne sich vor Weißen erklären zu müssen.
+
+Empowerment wirkt auf drei Ebenen: **individuell** (Selbstwert, Wissen über Rassismus, Sprache für eigene Erfahrungen), **kollektiv** (Gruppen, Netzwerke, gegenseitige Unterstützung) und **politisch-strukturell** (Interessenvertretung, Mitbestimmung in Institutionen). Es ist kein Angebot „für“ Betroffene, sondern ihre eigene Praxis. Das Gegenstück ist **Powersharing**: Privilegierte teilen Ressourcen, Zugänge und Entscheidungsmacht, etwa wenn ein Träger Räume und Geld für Selbstorganisationen bereitstellt (Rosenstreich 2006).
+
+## 5. Selbstorganisationen und Community Organizing
+
+Selbstorganisationen von Betroffenen vertreten Interessen, leisten Bildungsarbeit und schaffen Gemeinschaft. Beispiele sind die Initiative Schwarze Menschen in Deutschland (ISD), der Zentralrat Deutscher Sinti und Roma, die Neuen deutschen Organisationen oder die Initiative 19. Februar Hanau, in der Angehörige und Unterstützer:innen Aufklärung, Erinnerung und Konsequenzen fordern. Community Organizing setzt hier an: Menschen organisieren sich um gemeinsame Anliegen und bauen Gegenmacht auf.
+
+::: {.praxis}
+**Für die Praxis heißt das:** Fachkräfte schaffen Räume, Ressourcen und Zeit, statt Empowerment zu „liefern“. Beziehungsarbeit braucht Vertrauen, Kontinuität und Parteilichkeit. Diskriminierungserfahrungen werden nicht relativiert, kein „Das war sicher nicht so gemeint“. Mit Selbstorganisationen wird auf Augenhöhe kooperiert, ohne sie zu vereinnahmen. Und Rassismuskritik darf nicht vom Engagement Einzelner abhängen; Träger und Leitungen müssen sie strukturell verankern.
+:::
+
+## Zur Vertiefung
+
+::: {.callout-tip title="Fallarbeit: Amira (Kleingruppen, 15 Minuten)"}
+1. Welche impliziten Botschaften transportieren Sätze wie „Du sprichst aber gut Deutsch“, auch wenn sie positiv gemeint sind?
+2. Wie würden Sie auf Amiras Unsicherheit reagieren, ohne ihre Wahrnehmung zu relativieren?
+3. Wie könnte die Bezugsbetreuerin die Kollegin ansprechen, ohne die Teamatmosphäre zu belasten?
+4. Welche Teamkulturen begünstigen solche Mikroaggressionen?
+:::
+
+::: {.callout-tip title="Reflexionsfrage"}
+Ist ein Empowerment-Angebot „für Mädchen mit Migrationsgeschichte“ eine Stärkung, oder bedient es genau die Schublade, die es auflösen will? Kann beides zugleich zutreffen?
+:::
+
+**Zum Weiterlesen:** Can, Halil (2011): Empowerment aus der People of Color-Perspektive. Berlin: Heinrich-Böll-Stiftung. · Mecheril, Paul et al. (2010): Migrationspädagogik. Weinheim: Beltz. · Özdemir, Halide/Högerl, Astrid (2015): Feministische und rassismuskritische Soziale Arbeit mit Jugendlichen. · Scharathow, Wiebke/Leiprecht, Rudolf (Hrsg.) (2009): Rassismuskritik. Band 2: Rassismuskritische Bildungsarbeit. Schwalbach/Ts.: Wochenschau.

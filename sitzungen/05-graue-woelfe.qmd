@@ -1,0 +1,92 @@
+---
+title: "Sitzung 5: Graue Wölfe und türkischer Ultranationalismus"
+subtitle: "05.11.2026"
+---
+
+::: {.callout-note appearance="simple" icon=false}
+### Leitfrage
+Was kennzeichnet den türkischen Rechtsextremismus, warum ist er für manche Jugendliche anschlussfähig, und wie können Fachkräfte ihm präventiv begegnen?
+:::
+
+Bei der Fußball-Europameisterschaft 2024 zeigte der türkische Nationalspieler Merih Demiral nach einem Tor den sogenannten Wolfsgruß. Die UEFA sperrte ihn, in Deutschland folgte eine breite Debatte, in seiner Heimatprovinz Bolu wurde ihm eine Statue errichtet. Die Szene verdichtet ein Problem, das in der Sozialen Arbeit lange kaum beachtet wurde: Rassismus und Rechtsextremismus gibt es auch in migrantischen Communitys. Wer das ausblendet, lässt die Betroffenen dieses Rassismus allein, etwa Kurd:innen, Alevit:innen und Armenier:innen. Wer es kulturalisiert, verkennt die Rolle von Rassismuserfahrungen in Deutschland. Die Sitzung sucht einen dritten Weg zwischen beiden Verkürzungen.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Themen
+
+- Geschichte und Ideologie des türkischen Rechtsextremismus
+- Ülkücü-Bewegung und Graue Wölfe in Deutschland
+- Symbole und Erlebniswelt
+- Rassismus und Antisemitismus
+- Attraktivität für Jugendliche und Handlungsmöglichkeiten
+:::
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Zentrale Begriffe
+
+- Ülkücü-Bewegung („Idealisten“)
+- Turanismus
+- Türkisch-Islamische Synthese
+- „Europäisches Türkentum“
+- Rassismus in intermigrantischen Kontexten
+:::
+
+:::
+
+## 1. Geschichte und Ideologie
+
+Der türkische Rechtsextremismus lässt sich als faschistoide Bewegung einordnen. Kennzeichen sind ein ausgeprägter Führerkult, die Überhöhung der „türkischen Rasse“, das Ziel eines pantürkischen Großreichs (**Turanismus**), Vernichtungsfantasien gegenüber ethnischen und religiösen Minderheiten sowie gewaltverherrlichende Denkmuster. In den 1970er- bis 1990er-Jahren wurden der Bewegung mehrere Morde an Kurd:innen, Alevit:innen, Linken, Gewerkschafter:innen und Wissenschaftler:innen zugerechnet.
+
+Ideengeschichtlich ist der Rechtsnationalismus eine von mehreren Formen des Nationalismus in der Türkei, neben dem kemalistischen, dem islamischen, dem liberal-konservativen und dem linken Nationalismus. Prägend war Nihal Atsız (1905–1975), der den „Türkismus“ als einzige eigenständige nationale Idee verstand. Alparslan Türkeş (1917–1997), Gründer der Partei der Nationalistischen Bewegung (MHP), formulierte die „Neun-Lichter-Doktrin“. Später rückte die **Türkisch-Islamische Synthese** in den Vordergrund, verdichtet in Türkeş’ Satz: „Das Türkentum ist unser Körper, der Islam unsere Seele.“ Das Bündnis zwischen AKP und MHP verstärkt seit einigen Jahren die Wechselwirkung von Islam und Nationalismus.
+
+Der Name geht auf die Ergenekon-Legende zurück: Die Wölfin Asena führte die Göktürken nach einer Niederlage aus einem Tal und rettete sie vor der Unterwerfung. Für Rechtsextreme ist der Graue Wolf das Symbol der Militanz.
+
+## 2. Die Ülkücü-Bewegung in Deutschland
+
+Die Ülkücü-Bewegung gilt als größte rechtsextreme Organisation in Deutschland (Bozay 2017). Sie ist vor allem in drei Dachverbänden organisiert:
+
+| Dachverband | Gründung | Nähe | lokale Vereine (ca.) |
+|---|---|---|---|
+| Föderation der Türkisch-Demokratischen Idealistenvereine in Deutschland (ADÜTDF, „Türk Federasyon“) | 1978 | MHP | 200 |
+| Union der Türkisch-Islamischen Kulturvereine in Europa (ATIB) | 1987 | Abspaltung von der MHP | 120 |
+| Avrupa Türk Birliği (ATB) | 1994 | Große Einheitspartei (BBP) | 20 |
+
+: Dachverbände der Ülkücü-Bewegung in Deutschland {#tbl-verbaende}
+
+Hinzu kommen rockerähnliche Gruppierungen wie die Turkos MC in Bayern oder Turan e. V. in Nordrhein-Westfalen sowie die 2018 verbotenen Osmanen Germania. Als Sammelbegriff hat sich das „Europäische Türkentum“ etabliert: Menschen, die ihren Lebensmittelpunkt in Europa haben, sollen ihre türkisch-nationalistische Identität weiterleben und verbreiten. Auffällig ist der Wandel der Geschlechterrollen. Die Bewegung war lange männlich dominiert; inzwischen treten junge Frauen sichtbarer auf, übernehmen Funktionen in Vereinen, organisieren Demonstrationen und positionieren sich in sozialen Medien (Bozay/Wiese 2018).
+
+## 3. Symbole und Erlebniswelt
+
+Zentrales Erkennungszeichen ist der **Wolfsgruß**. Nach einer verbreiteten Deutung steht der kleine Finger für das Türkentum, der Zeigefinger für den Islam, der Ring für die Welt; zusammen bedeute der Gruß, der Welt den türkisch-islamischen Stempel aufzudrücken (Rammerstorfer 2018, S. 35). Weitere Symbole sind die **drei Halbmonde** der MHP, das Wort „Türk“ in alttürkischer Runenschrift und der Hufeisen-Schnurrbart. Der **Schwur der Idealisten** verknüpft Religion, Vaterland, Märtyrertum und den Kampf „bis Turan erreicht ist“.
+
+Die Erlebniswelt reicht weit über Vereinsräume hinaus. Nationalistischer Rap, Fußball und Kampfsport sind wichtige Orte der Ansprache und Rekrutierung. Autokorsos nach den türkischen Wahlen 2023 und während der EM 2024 machten die Symbolik im öffentlichen Raum sichtbar.
+
+## 4. Rassismus und Antisemitismus
+
+Rassismus ist in der Ideologie offen angelegt. Türkeş schrieb der „türkischen Rasse“ einen höheren Wert zu als anderen „Rassen“. Feindbilder sind Kurd:innen, Armenier:innen, Alevit:innen, Griech:innen und Linke; der Völkermord an den Armenier:innen wird geleugnet. Hinzu kommt Antisemitismus als flexibler Code. Claudia Dantschke (2012, S. 78) beschreibt antisemitische Verschwörungserzählungen als festen Bestandteil des Weltbilds, in dem jede:r Gegner:in zum „heimlichen Juden“ gemacht werden kann.
+
+Der Vergleich mit dem deutschen Rechtsextremismus zeigt eine spiegelbildliche Struktur: Ultranationalismus, Rassismus, Antisemitismus, Autoritarismus und Führerkult, Homophobie und Sexismus, Antikommunismus, die Leugnung eines Völkermords und die Akzeptanz von Gewalt. Unterschiedlich sind die Bezugsgruppe und das Verhältnis zur Religion.
+
+## 5. Warum ist die Bewegung für Jugendliche attraktiv?
+
+Verschiedene Faktoren begünstigen die Verbreitung: rechtsextreme Organisationen im sozialen Nahraum, transnationale Einflüsse und politische Entwicklungen in der Türkei, familiäre Sozialisation, soziale Medien und eine mangelnde gesellschaftliche Auseinandersetzung. Hinzu kommen **Rassismus- und Diskriminierungserfahrungen in Deutschland**. Wer hier nicht als zugehörig anerkannt wird, findet in der Bewegung Deutungsangebote: klare Weltbilder, Gruppenzugehörigkeit, inszenierte Stärke, Gemeinschaft und das Gefühl, bedeutsam zu sein.
+
+Beides kann zugleich zutreffen: Junge Menschen mit Türkeibezug sind von Rassismus betroffen, und manche von ihnen vertreten selbst rassistische Ideologien. Das eine erklärt das andere teilweise, rechtfertigt es aber nicht.
+
+::: {.praxis}
+**Für die Praxis heißt das:** Fachkräfte in Schule und Jugendarbeit sollten die Ideologie erkennen und einordnen (Narrative, Feindbilder, Symbole), klare Grenzen gegenüber menschenverachtenden Aussagen setzen und zugleich im Gespräch bleiben. Demokratiebildung, die Reflexion von Verschwörungserzählungen und Hate Speech sowie Räume zur Auseinandersetzung mit Ungleichwertigkeitsideologien gehören dazu. Betroffene, etwa kurdische oder alevitische Jugendliche, sind zu stärken und ihre Perspektiven aktiv einzubeziehen. Gesellschaftspolitisch geht es darum, die Bewegung klar als Teil des rechtsextremen Spektrums anzuerkennen.
+:::
+
+## Zur Vertiefung
+
+::: {.callout-tip title="Diskussion im Plenum"}
+1. Welche Faktoren begünstigen die Verbreitung des türkischen Rechtsextremismus in Deutschland?
+2. Wie reagieren Sie, wenn ein Jugendlicher im Jugendzentrum den Wolfsgruß zeigt, und was hängt davon ab, wer im Raum ist?
+:::
+
+::: {.callout-tip title="Reflexionsfrage"}
+Warum fällt es Fachkräften mitunter schwer, Rassismus unter Migrant:innen zu benennen? Welche Rolle spielen dabei die Angst vor Kulturalisierung und das Bild von Migrant:innen als ausschließlich Betroffene?
+:::
+
+**Zum Weiterlesen:** Arslan, Emre (2009): Der Mythos der Nation im Transnationalen Raum. Türkische Graue Wölfe in Deutschland. Wiesbaden: VS. · Bozay, Kemal (2017): Graue Wölfe – die größte rechtsextreme Organisation in Deutschland. Bonn: bpb. · Dantschke, Claudia (2012): „Graue Wölfe“ in Deutschland. Türkischer Ultranationalismus und Rechtsextremismus. In: Greuel, Frank/Glaser, Michaela (Hrsg.): Ethnozentrismus und Antisemitismus bei Jugendlichen mit Migrationshintergrund. Halle: DJI, S. 66–89. · Borstel, Dierk/Bozay, Kemal (Hrsg.) (2020): Kultur der Anerkennung statt Menschenfeindlichkeit. Weinheim: Beltz Juventa.

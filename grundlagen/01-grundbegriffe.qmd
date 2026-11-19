@@ -1,0 +1,352 @@
+---
+title: "Grundbegriffe der Rassismuskritik"
+---
+
+Diese Seite stellt die Begriffe vor, die in der Lehrveranstaltung immer wieder auftauchen. Klicken Sie auf einen Begriff, um die Erläuterung und die typische Verwechslung zu sehen. Üben können Sie die Begriffe anschließend auf der Seite [Lernspiele](../03-lernspiele.qmd), prüfen können Sie sich in der [Lernkontrolle](../04-lernkontrolle.qmd).
+
+```{=html}
+<div class="term-tools">
+  <button type="button" onclick="document.querySelectorAll('details.term').forEach(d=>d.open=true)">Alle aufklappen</button>
+  <button type="button" onclick="document.querySelectorAll('details.term').forEach(d=>d.open=false)">Alle zuklappen</button>
+</div>
+```
+
+## Von Stereotypen zu Rassismus {#sec-grundbegriffe}
+
+<details class="term">
+<summary>Stereotyp</summary>
+
+Stereotype sind positive oder negative Eigenschaften und Verhaltensweisen, die mit einer sozialen Gruppe verbunden werden. Sie laufen weitgehend automatisch ab und beruhen meist auf einem gewissen gesellschaftlichen Konsens darüber, was „typisch“ für eine Gruppe sei (Geschke 2012).
+
+::: {.confused}
+**Häufig verwechselt mit:** Vorurteil. Das Stereotyp ist die gedankliche Zuschreibung („die sind temperamentvoll“); das Vorurteil verbindet sie mit einer Bewertung und mit Gefühlen.
+:::
+
+</details>
+
+<details class="term">
+<summary>Vorurteil</summary>
+
+Vorurteile sind herabsetzende Einstellungen gegenüber Gruppen oder ihren Mitgliedern. Sie enthalten eine kognitive Komponente (Stereotyp), eine emotionale (etwa Angst) und eine verhaltensbezogene (etwa Vermeidung) (Geschke 2012).
+
+::: {.confused}
+**Häufig verwechselt mit:** Rassismus. Vorurteile haben alle Menschen. Rassismus entsteht erst, wenn Zuschreibungen mit der Macht verbunden sind, Ungleichwertigkeit gesellschaftlich durchzusetzen.
+:::
+
+</details>
+
+<details class="term">
+<summary>Diskriminierung (unmittelbar und mittelbar)</summary>
+
+Diskriminierung bedeutet, dass Menschen wegen bestimmter Merkmale schlechter behandelt werden. Eine **unmittelbare** Diskriminierung knüpft direkt an ein Merkmal nach § 1 AGG an, etwa wenn ein Fitnessstudio die Mitgliedschaft wegen der ethnischen Herkunft verweigert. Eine **mittelbare** Diskriminierung entsteht durch scheinbar neutrale Kriterien, die bestimmte Gruppen stärker treffen, etwa „Deutsch als Muttersprache“ als Voraussetzung für eine Stelle in einer Gärtnerei.
+
+::: {.confused}
+**Häufig verwechselt mit:** absichtlicher Benachteiligung. Diskriminierung setzt keine Absicht voraus; entscheidend ist die Wirkung.
+:::
+
+</details>
+
+<details class="term">
+<summary>Rassismus</summary>
+
+Rassismus ist keine bloße Summe individueller Vorurteile, sondern ein gesellschaftliches Verhältnis. Gruppen werden konstruiert, mit vermeintlich unveränderlichen Eigenschaften versehen und hierarchisiert; das legitimiert ungleiche Macht und ungleichen Zugang zu Ressourcen (Rommelspacher 2009). Auch wenn es „Rassen“ biologisch nicht gibt, wirkt die Konstruktion real: Sie grenzt aus, schafft Hierarchien und kann töten.
+
+::: {.confused}
+**Häufig verwechselt mit:** Rechtsextremismus. Rassismus ist kein Randphänomen extremer Gruppen, sondern in der „Mitte“ der Gesellschaft, in Institutionen und Routinen verankert.
+:::
+
+</details>
+
+<details class="term">
+<summary>Vier Merkmale von Rassismus nach Rommelspacher</summary>
+
+Birgit Rommelspacher (2009) nennt vier Mechanismen: **Naturalisierung** (soziale Unterschiede gelten als natürlich), **Homogenisierung** (alle Mitglieder gelten als gleich), **Polarisierung** („wir“ und „die“ als Gegensätze) und **Hierarchisierung** („die“ gelten als weniger wert). Hinzu kommt die Macht, diese Unterscheidungen gesellschaftlich durchzusetzen.
+
+::: {.confused}
+**Häufig verwechselt mit:** bloßer Unterscheidung. Unterschiede zu benennen ist noch kein Rassismus; rassistisch wird es, wenn Unterschiede naturalisiert und hierarchisiert werden.
+:::
+
+</details>
+
+<details class="term">
+<summary>Gruppenbezogene Menschenfeindlichkeit (GMF)</summary>
+
+Das Konzept von Wilhelm Heitmeyer beschreibt ein Syndrom: Die Abwertung verschiedener Gruppen, etwa von Muslim:innen, Jüdinnen und Juden, wohnungslosen oder langzeitarbeitslosen Menschen, hat einen gemeinsamen Kern, die **Ideologie der Ungleichwertigkeit**. Wer eine Gruppe abwertet, wertet mit höherer Wahrscheinlichkeit auch andere ab.
+
+::: {.confused}
+**Häufig verwechselt mit:** Rassismus als Machtverhältnis. GMF misst Einstellungen von Individuen; Rassismuskritik nimmt zusätzlich Strukturen und Institutionen in den Blick.
+:::
+
+</details>
+
+<details class="term">
+<summary>Kultureller Rassismus („Rassismus ohne Rassen“)</summary>
+
+Étienne Balibar (1990) beschreibt einen Neo-Rassismus, der ohne den Begriff „Rasse“ auskommt. An die Stelle der Biologie tritt die Kultur, an die Stelle der offenen Hierarchie die behauptete Unvereinbarkeit von Kulturen. Stuart Hall nennt „Rasse“ deshalb einen gleitenden Signifikanten: Der Inhalt wechselt (Biologie, Kultur, Religion), die Funktion bleibt.
+
+::: {.confused}
+**Häufig verwechselt mit:** sachlicher Kulturbeschreibung. Rassistisch wird der Verweis auf „Kultur“, wenn er Menschen auf ein festes, unveränderliches Wesen festlegt.
+:::
+
+</details>
+
+## Ebenen von Rassismus {#sec-ebenen}
+
+<details class="term">
+<summary>Alltagsrassismus</summary>
+
+Philomena Essed (1991) beschreibt Rassismus als wiederkehrende, alltägliche Praktiken, die einzeln harmlos erscheinen, sich aber zu einem System verdichten: die Frage nach der „wirklichen“ Herkunft, die Absage bei der Wohnungssuche, das ungefragte Duzen auf dem Amt.
+
+::: {.confused}
+**Häufig verwechselt mit:** Einzelfällen. Alltagsrassismus wirkt gerade durch Wiederholung und Normalität.
+:::
+
+</details>
+
+<details class="term">
+<summary>Mikroaggression</summary>
+
+Kleine, oft unbeabsichtigte Abwertungen, die durch Wiederholung belasten, wie „tausend Nadelstiche“. Sue et al. (2007) unterscheiden Microassaults (offene Abwertung), Microinsults (subtile Herabsetzung, etwa „Du sprichst aber gut Deutsch“) und Microinvalidations (Erfahrungen werden abgestritten, etwa „Ich sehe keine Hautfarben“).
+
+::: {.confused}
+**Häufig verwechselt mit:** Überempfindlichkeit. Der Begriff macht Erfahrungen benennbar, die sonst als „zu empfindlich“ abgetan werden; maßgeblich ist die Wirkung, nicht die Absicht.
+:::
+
+</details>
+
+<details class="term">
+<summary>Institutioneller Rassismus</summary>
+
+Rassismus, der über Routinen, Regeln und Verfahren von Organisationen wirkt, auch ohne rassistische Absicht einzelner Mitarbeitender. Gomolla und Radtke (2002) zeigen das für die Schule: Bei Zurückstellungen, Förderschulüberweisungen und Übertrittsempfehlungen dienten „fehlende Deutschkenntnisse“ oder der „kulturelle Hintergrund“ als Begründung.
+
+::: {.confused}
+**Häufig verwechselt mit:** rassistischen Einstellungen einzelner Beschäftigter. Institutioneller Rassismus kann auch dann wirken, wenn alle Beteiligten sich für vorurteilsfrei halten.
+:::
+
+</details>
+
+<details class="term">
+<summary>Struktureller Rassismus</summary>
+
+Ungleichbehandlung, die in Gesetzen, Verfahren und gesellschaftlichen Normen eingebettet ist und über einzelne Organisationen hinausreicht, etwa im Aufenthaltsrecht, auf dem Arbeits- und Wohnungsmarkt oder bei der Anerkennung ausländischer Abschlüsse.
+
+::: {.confused}
+**Häufig verwechselt mit:** institutionellem Rassismus. Institutioneller Rassismus betrifft die Praxis einzelner Organisationen; struktureller Rassismus das Zusammenwirken vieler Institutionen und Regelungen.
+:::
+
+</details>
+
+## Theoretische Werkzeuge {#sec-theorien}
+
+<details class="term">
+<summary>Othering</summary>
+
+Othering bezeichnet Prozesse, in denen Menschen durch Abgrenzung erst zu „Anderen“ gemacht werden. Der Mechanismus lautet: unterscheiden, abwerten, festschreiben. Die Zuschreibungen sagen oft mehr über das „Wir“ aus als über „die Anderen“. Der Begriff geht auf Gayatri C. Spivak (1985) zurück und schließt an Edward Saids *Orientalism* (1978) an.
+
+::: {.confused}
+**Häufig verwechselt mit:** Wahrnehmung von Vielfalt. Othering ist kein neutrales Feststellen von Unterschieden, sondern stellt eine Rangordnung her.
+:::
+
+</details>
+
+<details class="term">
+<summary>Kulturalisierung</summary>
+
+Kulturalisierung liegt vor, wenn soziale Probleme, Verhaltensweisen oder Konflikte vorrangig oder ausschließlich auf die kulturelle Herkunft zurückgeführt werden, statt strukturelle, biografische oder institutionelle Faktoren zu berücksichtigen. „Das ist bei denen kulturell so“ verdeckt Armut, Aufenthaltsrecht und Diskriminierung.
+
+::: {.confused}
+**Häufig verwechselt mit:** Kultursensibilität. Kultursensibel ist, wer nach der Bedeutung von Religion oder Herkunft für die konkrete Person fragt; kulturalisierend, wer sie ihr vorab unterstellt.
+:::
+
+</details>
+
+<details class="term">
+<summary>Postkoloniale Theorie</summary>
+
+Ein interdisziplinärer Ansatz, der koloniale Machtverhältnisse und ihr Fortwirken in Wissen, Sprache, Bildern und Institutionen analysiert. Das „post“ markiert keinen Abschluss, sondern eine kritische Auseinandersetzung mit dem, was bleibt. Zentrale Stimmen sind Fanon, Said, Spivak, Bhabha, Hall und Quijano.
+
+::: {.confused}
+**Häufig verwechselt mit:** „Post-kolonial“ als Epochenbegriff. Gemeint ist nicht die Zeit nach der formalen Unabhängigkeit, sondern eine Perspektive auf koloniale Kontinuitäten (Castro Varela/Dhawan).
+:::
+
+</details>
+
+<details class="term">
+<summary>Kolonialität der Macht</summary>
+
+Aníbal Quijano unterscheidet den Kolonialismus als direkte Herrschaft von der Kolonialität als fortbestehendem Machtmuster. Seit 1492 ordnen „Rasse“ und die Kontrolle von Arbeit die Welt; dieses Muster bestand nach dem Ende der Kolonien fort.
+
+::: {.confused}
+**Häufig verwechselt mit:** Kolonialismus. Der Kolonialismus ist formal beendet, die Kolonialität nicht.
+:::
+
+</details>
+
+<details class="term">
+<summary>Critical Race Theory (CRT)</summary>
+
+Die CRT entstand in den 1970er- und 1980er-Jahren in den US-Rechtswissenschaften (Bell, Crenshaw, Delgado, Matsuda). Ihre Grundannahme: Rassismus ist kein Ausnahmefall, sondern normaler Bestandteil der Gesellschaft, und das Recht trägt trotz formaler Gleichheit dazu bei. Weitere Konzepte sind Interessenkonvergenz, Counter-Storytelling und Intersektionalität.
+
+::: {.confused}
+**Häufig verwechselt mit:** postkolonialer Theorie. Beide verstehen Rassismus als strukturelles Machtverhältnis; die CRT konzentriert sich jedoch auf Recht und Institutionen, die postkoloniale Theorie auf Wissen, Repräsentation und globale Ordnungen.
+:::
+
+</details>
+
+<details class="term">
+<summary>Intersektionalität</summary>
+
+Der Begriff geht auf Kimberlé Crenshaw (1989) zurück. Diskriminierungen addieren sich nicht einfach, sondern verschränken sich zu eigenen Erfahrungen, wie Verkehr an einer Kreuzung, der aus mehreren Richtungen zugleich kommen kann. Winker und Degele (2009) haben daraus eine Mehrebenenanalyse entwickelt (Struktur, Repräsentation, Identität).
+
+::: {.confused}
+**Häufig verwechselt mit:** Mehrfachdiskriminierung als Addition. „Frau plus Muslimin“ ergibt nicht doppelte, sondern eine qualitativ eigene Benachteiligung.
+:::
+
+</details>
+
+<details class="term">
+<summary>Weißsein</summary>
+
+In der Kritischen Weißseinsforschung bezeichnet Weißsein keine Hautfarbe, sondern eine gesellschaftliche Position im Machtverhältnis Rassismus. Nach Ruth Frankenberg (1993) ist es ein Ort struktureller Vorteile, ein Standpunkt und ein Set meist unbenannter kultureller Praktiken. Schwarz wird als politische Selbstbezeichnung großgeschrieben, *weiß* als analytische Kategorie kursiv.
+
+::: {.confused}
+**Häufig verwechselt mit:** einer biologischen Eigenschaft oder einem Vorwurf. Weißsein benennt eine Position, keine Schuld.
+:::
+
+</details>
+
+<details class="term">
+<summary>Privileg</summary>
+
+Unverdiente Vorteile, die aus der Position im Machtverhältnis folgen und oft als Abwesenheit von Problemen erlebt werden. Peggy McIntosh (1988) spricht vom „unsichtbaren Rucksack“. Leitfrage: Was muss ich nicht tun, nicht befürchten, nicht erklären?
+
+::: {.confused}
+**Häufig verwechselt mit:** einem leichten Leben. Weißsein schützt nicht vor Armut oder Krankheit, aber Rassismus gehört nicht zu den Hürden, auf die man stößt.
+:::
+
+</details>
+
+## Erscheinungsformen {#sec-erscheinungsformen}
+
+<details class="term">
+<summary>Antimuslimischer Rassismus</summary>
+
+Muslim:innen und Menschen, die als muslimisch gelesen werden, werden als homogene Gruppe konstruiert, die im Verhältnis zur ebenfalls konstruierten Eigengruppe als weniger zivilisiert, emanzipiert, frei und fortschrittlich gilt (Attia 2014). Religion wird dabei zum rassifizierenden Marker; betroffen sind auch Menschen, die gar nicht muslimisch sind.
+
+::: {.confused}
+**Häufig verwechselt mit:** Religionskritik. Religionskritik zielt auf Lehren und Praktiken; antimuslimischer Rassismus schreibt Menschen pauschal Eigenschaften zu.
+:::
+
+</details>
+
+<details class="term">
+<summary>Antisemitismus</summary>
+
+Nach der Arbeitsdefinition der International Holocaust Remembrance Alliance (IHRA) ist Antisemitismus eine bestimmte Wahrnehmung von Jüdinnen und Juden, die sich als Hass ausdrücken kann und sich in Wort oder Tat gegen jüdische oder nichtjüdische Personen, ihr Eigentum sowie jüdische Institutionen richtet. Unterschieden werden u. a. tradierter, sekundärer und israelbezogener Antisemitismus.
+
+::: {.confused}
+**Häufig verwechselt mit:** einer Unterform von Rassismus. Beide sind verwandt, aber nicht identisch: Rassismus konstruiert Andere als unterlegen, Antisemitismus imaginiert Jüdinnen und Juden als übermächtig und bietet eine Welterklärung an (Holz 2001).
+:::
+
+</details>
+
+<details class="term">
+<summary>Sekundärer Antisemitismus</summary>
+
+Antisemitismus nicht trotz, sondern wegen der Erinnerung an die Shoah: Abwehr von Schuld und Erinnerung, Forderungen nach einem „Schlussstrich“ oder der Vorwurf, Jüdinnen und Juden zögen Vorteile aus der Vergangenheit.
+
+::: {.confused}
+**Häufig verwechselt mit:** tradiertem Antisemitismus. Der tradierte Antisemitismus greift alte Bilder (etwa jüdische Macht) auf; der sekundäre richtet sich gegen die Erinnerung.
+:::
+
+</details>
+
+<details class="term">
+<summary>Israelbezogener Antisemitismus</summary>
+
+Antisemitische Bilder und Muster werden auf den Staat Israel übertragen, etwa wenn Israel dämonisiert, mit anderen Maßstäben gemessen als andere Staaten oder ihm das Existenzrecht abgesprochen wird, oder wenn Jüdinnen und Juden in Deutschland für israelische Politik verantwortlich gemacht werden.
+
+::: {.confused}
+**Häufig verwechselt mit:** Kritik an israelischer Regierungspolitik. Kritik an politischen Entscheidungen ist nicht per se antisemitisch; wo die Grenze verläuft, wird fachlich kontrovers diskutiert.
+:::
+
+</details>
+
+<details class="term">
+<summary>Antiziganismus</summary>
+
+Rassismus gegen Sinti:zze und Rom:nja zählt zu den ältesten und am weitesten verbreiteten Formen von Rassismus in Europa. Er reicht bis zum Völkermord im Nationalsozialismus (Porajmos) und zeigt sich heute in Schule, Wohnen, Polizei und Behörden (Unabhängige Kommission Antiziganismus 2021).
+
+::: {.confused}
+**Häufig verwechselt mit:** einer neutralen Bezeichnung. Der Begriff reproduziert die Fremdbezeichnung; Alternativen sind „Rassismus gegen Sinti:zze und Rom:nja“ oder „Gadjé-Rassismus“.
+:::
+
+</details>
+
+<details class="term">
+<summary>Türkischer Ultranationalismus (Ülkücü-Bewegung)</summary>
+
+Die Ülkücü-Bewegung, deren Anhänger:innen als sogenannte „Graue Wölfe“ bekannt sind, ist die größte rechtsextreme Bewegung mit Türkeibezug in Deutschland. Kennzeichen sind ein Führerkult, die Überhöhung der „türkischen Rasse“, das Ziel eines pantürkischen Großreichs (Turanismus), die Türkisch-Islamische Synthese sowie Rassismus und Antisemitismus gegen Kurd:innen, Armenier:innen, Alevit:innen und Jüdinnen und Juden.
+
+::: {.confused}
+**Häufig verwechselt mit:** Patriotismus oder einer migrantischen Gegenreaktion auf Rassismus. Rassismuserfahrungen können die Anschlussfähigkeit erhöhen, machen die Ideologie aber nicht weniger rechtsextrem.
+:::
+
+</details>
+
+## Handeln {#sec-handeln}
+
+<details class="term">
+<summary>Rassismuskritik</summary>
+
+Rassismuskritik ist eine reflexive Haltung. Sie geht davon aus, dass niemand außerhalb rassistischer Verhältnisse steht, und fragt, wie wir selbst in diese Verhältnisse verstrickt sind und wie sie sich verschieben lassen (Melter/Mecheril 2009).
+
+::: {.confused}
+**Häufig verwechselt mit:** Antirassismus. Antirassismus betont die klare Gegnerschaft und läuft Gefahr, Rassismus nur bei „den anderen“ zu sehen; Rassismuskritik läuft Gefahr, bei der Reflexion stehen zu bleiben. Soziale Arbeit braucht beides.
+:::
+
+</details>
+
+<details class="term">
+<summary>Empowerment</summary>
+
+Menschen mit Rassismuserfahrung stärken sich gegenseitig, in geschützten Räumen (Safer Spaces), durch Selbstorganisation und Selbstbenennung (Can 2011). Empowerment wirkt individuell, kollektiv und politisch.
+
+::: {.confused}
+**Häufig verwechselt mit:** einem Angebot „für“ Betroffene. Empowerment ist die Praxis der Betroffenen selbst; Fachkräfte stellen Räume, Ressourcen und Zeit bereit.
+:::
+
+</details>
+
+<details class="term">
+<summary>Powersharing</summary>
+
+Privilegierte teilen Ressourcen, Zugänge und Entscheidungsmacht, etwa indem ein Träger Räume und Geld für Selbstorganisationen bereitstellt. Powersharing ist das Gegenstück zum Empowerment (Rosenstreich 2006).
+
+::: {.confused}
+**Häufig verwechselt mit:** Helfen. Helfen lässt die Machtverhältnisse unberührt; Powersharing verändert, wer entscheidet.
+:::
+
+</details>
+
+<details class="term">
+<summary>Migrationspädagogik</summary>
+
+Paul Mecheril u. a. (2010) verschieben den Blick: Nicht „die Migrant:innen“ sind das Thema, sondern die Zugehörigkeitsordnungen, die zwischen „Wir“ und „Nicht-Wir“ unterscheiden, und die Institutionen und Fachkräfte, die sie herstellen.
+
+::: {.confused}
+**Häufig verwechselt mit:** interkultureller Pädagogik. Interkulturelle Pädagogik setzt auf Begegnung zwischen „Kulturen“; Migrationspädagogik fragt, wer überhaupt als kulturell „anders“ markiert wird.
+:::
+
+</details>
+
+<details class="term">
+<summary>Antidiskriminierungsberatung</summary>
+
+Professionelle, parteiliche Beratung, die Betroffenen hilft, Diskriminierung zu benennen und Rechte durchzusetzen, etwa nach dem Allgemeinen Gleichbehandlungsgesetz (AGG). Instrumente sind u. a. Testing und strategische Prozessführung.
+
+::: {.confused}
+**Häufig verwechselt mit:** allgemeiner Sozialberatung. Antidiskriminierungsberatung arbeitet parteilich und rechtlich; die Frist zur Geltendmachung nach dem AGG beträgt nur zwei Monate.
+:::
+
+</details>

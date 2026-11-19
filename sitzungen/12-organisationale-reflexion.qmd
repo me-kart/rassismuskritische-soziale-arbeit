@@ -1,0 +1,101 @@
+---
+title: "Sitzung 12: Organisationale Reflexion"
+subtitle: "14.01.2027"
+---
+
+::: {.callout-note appearance="simple" icon=false}
+### Leitfrage
+Wie wirkt Rassismus über Routinen, Regeln und Strukturen von Einrichtungen der Sozialen Arbeit, und wie lässt sich Rassismuskritik in Organisationen verankern?
+:::
+
+In einer Wohngruppe der Jugendhilfe werden drei Jugendliche auf dem Weg zum Supermarkt von der Polizei angehalten, nach Ausweisen gefragt und mehrere Minuten festgehalten, ohne erkennbaren Anlass. Sie kommen erschüttert zurück. Der zuständige Betreuer will Beschwerde einreichen. Die Leitung sagt: „Wir wollen keine Probleme mit der Polizei, die Jungs sollen das vergessen.“ An dieser Stelle zeigt sich, dass Rassismuskritik nicht beim einzelnen Betreuer enden kann. Ob die Jugendlichen Unterstützung erfahren, entscheidet die Organisation. Die Sitzung verschiebt den Blick von Einstellungen auf Strukturen.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Themen
+
+- Institutioneller Rassismus: Begriff und Beispiele
+- Entscheidungspunkte im Bildungssystem
+- Leitfragen rassismuskritischer Praxis
+- Organisationsentwicklung in vier Schritten
+- Gleichstellungsdaten und Monitoring
+:::
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Zentrale Begriffe
+
+- institutioneller Rassismus
+- direkte und indirekte institutionelle Diskriminierung
+- rassismuskritische Organisationsentwicklung
+- interkulturelle Öffnung und ihre Kritik
+:::
+
+:::
+
+## 1. Institutioneller Rassismus
+
+Der Begriff geht auf die Black-Power-Bewegung zurück: Stokely Carmichael und Charles Hamilton unterschieden 1967 individuellen und institutionellen Rassismus. Der Macpherson-Bericht (1999) nach dem Mord an Stephen Lawrence in London (1993) erkannte institutionellen Rassismus erstmals offiziell an, als „kollektives Versagen einer Organisation“. Die Polizei hatte nachlässig ermittelt. Der Kern: Rassismus wirkt auch ohne rassistische Absicht, über Routinen, Regeln und Strukturen. Damit verschiebt sich der Blick von „bösen Absichten“ auf die Wirkungen von Organisationspraxis.
+
+Auch in Deutschland gibt es Beispiele. Bei den NSU-Ermittlungen suchten Behörden jahrelang im Umfeld der Opfer; Untersuchungsausschüsse des Bundestags benannten strukturelle Mängel. Testing-Studien belegen Benachteiligungen auf dem Wohnungsmarkt bei ausländisch klingenden Namen. In Ausländerbehörden und Jobcentern wirken Ermessensspielräume, Sprachbarrieren und Misstrauen. Im Gesundheitswesen berichten Betroffene, dass ihre Beschwerden weniger ernst genommen werden (DeZIM 2023).
+
+## 2. Beispiel Schule: Gomolla und Radtke
+
+Die Bielefelder Studie von Mechtild Gomolla und Frank-Olaf Radtke (2002) zeigte, dass Schulen Kinder mit Migrationsgeschichte nicht vor allem durch einzelne Lehrkräfte benachteiligen, sondern durch ihre Entscheidungsroutinen. Bei Einschulung, Zurückstellung, Sonderschulüberweisung und Übergangsempfehlung dienten „fehlende Deutschkenntnisse“ oder der „kulturelle Hintergrund“ als Begründung.
+
+| Entscheidungspunkt | Mechanismus |
+|---|---|
+| Einschulung | Zurückstellung „wegen Sprache“, obwohl Sprachförderung in der Schule möglich wäre |
+| Förderbedarf | Überweisung an Förderschulen; Kinder mit Migrationsgeschichte sind dort überrepräsentiert |
+| Übertritt | bei vergleichbaren Leistungen seltener Gymnasialempfehlung, besonders folgenreich in Bayern nach Klasse 4 |
+| Benotung | identische Leistungen werden je nach Namen unterschiedlich bewertet (Bonefeld/Dickhäuser 2018) |
+
+: Entscheidungspunkte im Bildungssystem {#tbl-schule}
+
+Schulsozialarbeit kann solche Entscheidungen begleiten und hinterfragen, etwa indem sie Eltern über ihre Rechte im Übertrittsverfahren informiert.
+
+## 3. Leitfragen rassismuskritischer Praxis
+
+Rassismuskritik in der Einrichtung beginnt mit Fragen, nicht mit Bekenntnissen (Melter/Mecheril 2009; Scharathow/Leiprecht 2009):
+
+- **Markierung:** Wer wird in unserer Einrichtung als „anders“ markiert, und wie?
+- **Zugänge:** Welche Angebote erreichen wen nicht, und warum?
+- **Stimme:** Wer spricht in Teams, Gremien und Hilfeplänen, und wer wird gehört?
+- **Bilder:** Welche Bilder und Begriffe prägen Materialien und Akten?
+- **Reaktion:** Wie reagieren wir auf Diskriminierung, gibt es Beschwerdewege?
+- **Nutzen:** Wer profitiert von den bestehenden Routinen?
+
+## 4. Organisationsentwicklung in vier Schritten
+
+Rassismuskritische Organisationsentwicklung verschiebt Verantwortung von Einzelpersonen auf Leitung und Organisation. Sie prüft Personal, Angebote, Sprache und Beschwerdewege. Ein Beispiel: Ein Jugendamt analysiert, welche Familien besonders häufig Inobhutnahmen erleben, und überprüft seine Entscheidungskriterien.
+
+| Schritt | Inhalt | Beispiel |
+|---|---|---|
+| Analyse | Daten, Befragungen, Beschwerden auswerten | Wer nutzt unsere Angebote, und wer nicht? |
+| Ziele | Leitbild und konkrete Ziele festlegen | „Wir sind eine diskriminierungskritische Einrichtung.“ |
+| Maßnahmen | Personal, Materialien, Verfahren, Beschwerdewege | mehrsprachige Informationen, diverses Team, unabhängige Beschwerdestelle |
+| Evaluation | Wirkung prüfen und nachsteuern | jährlicher Bericht an Leitung und Team |
+
+: Organisationsentwicklung in vier Schritten {#tbl-oe}
+
+Abzugrenzen ist das Konzept von der **interkulturellen Öffnung**, die oft additiv bleibt: Ein mehrsprachiger Flyer verändert noch nicht, wer entscheidet. Rassismuskritische Organisationsentwicklung fragt dagegen nach Macht, Routinen und Ressourcen.
+
+## 5. Daten: nötig und riskant zugleich
+
+Ohne Daten bleibt Diskriminierung unsichtbar. Die amtliche Statistik erfasst Einwanderungsgeschichte, aber keine Rassismuserfahrungen; der Nationale Diskriminierungs- und Rassismusmonitor (NaDiRa) schließt diese Lücke teilweise. **Gleichstellungsdaten** beruhen auf freiwilliger, anonymer Selbstauskunft. Zugleich entsteht ein Spannungsfeld: Kategorien sind nötig, um Diskriminierung zu messen, und können sie doch festschreiben. Historisch waren ethnische Erfassungen selbst ein Instrument rassistischer Verwaltung.
+
+::: {.praxis}
+**Für die Praxis heißt das:** Fachkräfte können viel bewirken, aber nicht gegen ihre Organisation. Rassismuskritik braucht Leitungen, die Beschwerden ernst nehmen, Teams, die Routinen gemeinsam prüfen, und Träger, die Ressourcen dafür bereitstellen. Im Fall der Wohngruppe hieße das: Die Beschwerde unterstützen, die Jugendlichen begleiten und mit der Polizei auf institutioneller Ebene sprechen, statt das Erlebte dem Vergessen zu überlassen.
+:::
+
+## Zur Vertiefung
+
+::: {.callout-tip title="Fallstudie: Organisationscheck (Gruppen, 25 Minuten)"}
+Wählen Sie eine Einrichtung, die Sie aus Praktikum oder Nebenjob kennen. Gehen Sie die sechs Leitfragen aus Abschnitt 3 durch. Benennen Sie anschließend einen konkreten ersten Schritt für jede der vier Phasen in @tbl-oe.
+:::
+
+::: {.callout-tip title="Reflexionsfrage"}
+Braucht rassismuskritische Praxis Daten über Herkunft, um Rassismus beweisbar zu machen, oder reproduziert sie damit die Logik, die sie kritisiert?
+:::
+
+**Zum Weiterlesen:** Fereidooni, Karim/El, Meral (Hrsg.) (2017): Rassismuskritik und Widerstandsformen. Wiesbaden: Springer VS. · Gomolla, Mechtild/Radtke, Frank-Olaf (2002): Institutionelle Diskriminierung. Die Herstellung ethnischer Differenz in der Schule. Opladen: Leske + Budrich. · Melter, Claus (Hrsg.) (2015): Diskriminierungs- und rassismuskritische Soziale Arbeit und Bildung. Weinheim: Beltz Juventa.

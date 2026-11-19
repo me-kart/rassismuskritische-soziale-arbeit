@@ -1,0 +1,102 @@
+---
+title: "Sitzung 1: Einführung"
+subtitle: "08.10.2026"
+---
+
+::: {.callout-note appearance="simple" icon=false}
+### Leitfrage
+Was unterscheidet Stereotype, Vorurteile, Diskriminierung und Rassismus, und warum ist Rassismus mehr als ein individuelles Vorurteil?
+:::
+
+„Wie würden Sie Rassismus mit eigenen Worten definieren?“ Mit dieser Frage beginnt die Lehrveranstaltung. Die ersten Antworten kreisen meist um Hass, Beleidigungen und rechte Gewalt, also um das, was andere tun. Bei näherem Hinsehen kommen Erfahrungen hinzu, die weniger eindeutig sind: die Frage nach der „wirklichen“ Herkunft, die Wohnung, die „leider schon weg“ ist, die Schulempfehlung trotz guter Noten. Die Sitzung klärt den Rahmen der Lehrveranstaltung und legt die Begriffe fest, mit denen wir im Semester arbeiten.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Themen
+
+- Organisatorisches, Seminarplan, Prüfungsleistung
+- Stereotype, Vorurteile, Diskriminierung
+- Rassismus als gesellschaftliches Verhältnis
+- Rassismus als soziales Konstrukt mit realen Folgen
+- Bedeutung für die Soziale Arbeit
+:::
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Zentrale Begriffe
+
+- Stereotyp, Vorurteil
+- unmittelbare und mittelbare Diskriminierung
+- Rassismus, Rassismen
+- biologistischer und kultureller Rassismus
+:::
+
+:::
+
+## 1. Organisatorisches
+
+Die Lehrveranstaltung umfasst 13 Sitzungen in vier Blöcken (→ [Seminarüberblick](../index.qmd)). Sie schließt mit einer Studienarbeit von 10 Seiten ab, auf Deutsch oder Englisch. Das Thema ist frei wählbar, muss aber einen Bezug zur Lehrveranstaltung haben und vorab mit mir abgestimmt werden. Die Abgabe ist am 21.01.2027 im ELO. Schon in der ersten Sitzung entwickeln Sie erste Ideen für ein Thema.
+
+Inhaltlich führt das Seminar in Begriffe, Theorien und historische Kontexte von Rassismus in der (post-)migrantischen Gesellschaft ein. Es analysiert verschiedene Rassismusformen, fragt nach der Bedeutung diskursiver Ordnungen wie Nation, Kultur und Sprache und nimmt institutionellen Rassismus in sozialpädagogischen Organisationen in den Blick. Am Ende stehen Handlungsmöglichkeiten und die Reflexion der eigenen professionellen Haltung.
+
+## 2. Vom Stereotyp zur Diskriminierung
+
+Die Sozialpsychologie unterscheidet drei Begriffe, die im Alltag oft vermischt werden (Geschke 2012):
+
+| Begriff | Was gemeint ist | Beispiel |
+|---|---|---|
+| Stereotyp | positive oder negative Eigenschaften, die einer Gruppe zugeschrieben werden; laufen weitgehend automatisch ab | „Die Franzosen sind besonders romantisch.“ |
+| Vorurteil | herabsetzende Einstellung gegenüber einer Gruppe, mit kognitiver, emotionaler und verhaltensbezogener Komponente | Angst und Vermeidung gegenüber „den Fremden“ |
+| Diskriminierung | Schlechterbehandlung wegen eines Merkmals, direkt, indirekt oder durch verletzendes Verhalten | Absage bei der Wohnungssuche wegen des Namens |
+
+: Stereotyp, Vorurteil, Diskriminierung {#tbl-begriffe}
+
+Das Allgemeine Gleichbehandlungsgesetz (AGG) unterscheidet zwei Formen der Diskriminierung. Eine **unmittelbare** Diskriminierung setzt direkt an einem Merkmal nach § 1 AGG an, etwa wenn ein Fitnessstudio die Mitgliedschaft wegen der ethnischen Herkunft verweigert. Eine **mittelbare** Diskriminierung entsteht durch scheinbar neutrale Kriterien, die bestimmte Gruppen stärker treffen. Ein Beispiel ist eine Stellenanzeige für eine Gärtnerei, die „Deutsch als Muttersprache“ verlangt. Schon die Aufforderung zu benachteiligen, gilt als Diskriminierung.
+
+## 3. Was ist Rassismus?
+
+Rassismus ist eine Form der Diskriminierung, die auf der Vorstellung beruht, es gebe Gruppen von Menschen, die unterschiedlich viel wert seien. Wird die Gruppenzugehörigkeit auf körperliche Merkmale zurückgeführt, spricht man von biologistischem, wird sie auf kulturelle Eigenschaften zurückgeführt, von kulturellem Rassismus. Weil sich die Formen je nach historischem Kontext stark unterscheiden, ist auch von **Rassismen** im Plural die Rede.
+
+Entscheidend ist die Verbindung mit Macht. Birgit Rommelspacher hält fest, dass es beim Rassismus nicht einfach um individuelle Vorurteile geht, sondern um die Legitimation gesellschaftlicher Hierarchien, die auf der Diskriminierung der konstruierten Gruppen beruhen. Rassismus ist in diesem Sinn „immer ein gesellschaftliches Verhältnis“ (Rommelspacher 2009, S. 29).
+
+Daraus ergibt sich ein Grundverständnis, das die Lehrveranstaltung trägt:
+
+- Rassismus wird in Praktiken auf allen Ebenen des Zusammenlebens immer wieder neu hergestellt.
+- Zuschreibungen werden **naturalisiert**: Angebliche Wesensmerkmale, Fähigkeiten und Eigenschaften erscheinen als angeboren.
+- Diese Zuschreibungen führen zu **Hierarchisierung** und legitimieren Ungleichwertigkeit.
+- Rassismus erzeugt soziale Unterschiede, die den Zugang zu materiellen und symbolischen Ressourcen strukturieren und teilweise blockieren (Kourabas 2019).
+
+## 4. Ein soziales Konstrukt mit realen Folgen
+
+„Rassen“ gibt es biologisch nicht. Hautfarben sind keine biologische Realität im Sinne von Gruppen, sondern gesellschaftlich mit Bedeutung aufgeladene Konstrukte. Das macht Rassismus aber nicht weniger wirksam. Er hat sich über Jahrhunderte entwickelt und diente historisch dazu, Ausbeutung, Versklavung und Mord zu legitimieren, indem einem konstruierten „Anderen“ das Menschsein abgesprochen wurde. Die soziale Konstruktion wirkt bis heute: Sie grenzt aus, schafft Hierarchien und kann töten.
+
+Historisch hat sich die Begründung verschoben, vom biologischen „Rassen“-Denken der Aufklärung bis zum heutigen Kulturalismus. Kulturelle Unterschiede dienen dabei oft als Ersatzformel für rassistische Unterscheidungen (→ [Sitzung 4](04-antimuslimischer-rassismus.qmd)). Menschen werden dann auf „passive Kulturträger:innen“ reduziert (Kourabas 2019).
+
+## 5. Bedeutung für die Soziale Arbeit
+
+Drei Impulse begleiten das Semester:
+
+- **Rassismus ist eine historische Machtstruktur**, nicht nur ein individuelles Problem.
+- **Die Geschichte des Rassismus wirkt in die Gegenwart hinein**, in Bildern, Begriffen und Institutionen.
+- **Die Soziale Arbeit steht nicht außerhalb.** Sie ist Teil dieser Machtverhältnisse und kann Rassismus reproduzieren wie herausfordern.
+
+::: {.praxis}
+**Für die Praxis heißt das:** Ein verkürztes Verständnis, das Rassismus nur bei Rechtsextremen oder bei bewusster Böswilligkeit verortet, entlastet Fachkräfte, verfehlt aber die Erfahrungen der Adressat:innen. Wer Rassismus als Struktur begreift, fragt auch nach den eigenen Routinen: nach Akten, Zugangswegen und Zuschreibungen.
+:::
+
+## Zur Vertiefung
+
+::: {.callout-tip title="Kleingruppenarbeit: Begriffe kritisch erschließen (15 Minuten)"}
+Diskutieren Sie in Kleingruppen die Begriffe Stereotyp, Vorurteil, Diskriminierung und Rassismus.
+
+1. **Definitionen entwickeln:** Wie würden Sie die Begriffe fassen?
+2. **Unterschiede herausarbeiten:** Worin unterscheiden sie sich, wo überschneiden sie sich?
+3. **Zusammenhänge analysieren:** Wie hängen die Begriffe zusammen, etwa als Prozess?
+4. **Praxisbezug herstellen:** Nennen Sie Beispiele aus Alltag, Schule oder Sozialer Arbeit.
+:::
+
+::: {.callout-tip title="Reflexionsfrage"}
+Welches Verständnis von Rassismus haben Sie mitgebracht? Woran haben Sie zuerst gedacht, und was blieb dabei außen vor?
+:::
+
+**Zum Weiterlesen:** Geschke, Daniel (2012): Vorurteile, Differenzierung und Diskriminierung. Sozialpsychologische Erklärungsansätze. Bonn: Bundeszentrale für politische Bildung. · Heite, Catrin/Textor, Markus/Tischhauser, Annina (2022): Rassismus und Rassismuskritik in Sozialer Arbeit. · Kourabas, Veronika (2019): Grundlegende Darstellung zu Rassismuskritik. Was ist Rassismus und was heißt Rassismuskritik? · Rommelspacher, Birgit (2009): Was ist eigentlich Rassismus? In: Melter, Claus/Mecheril, Paul (Hrsg.): Rassismuskritik. Band 1. Schwalbach/Ts.: Wochenschau, S. 25–38.

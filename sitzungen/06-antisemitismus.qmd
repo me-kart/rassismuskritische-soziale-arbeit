@@ -1,0 +1,80 @@
+---
+title: "Sitzung 6: Erscheinungsformen des Antisemitismus"
+subtitle: "12.11.2026 · Gastreferentin: mehrWERT Demokratie"
+---
+
+::: {.callout-note appearance="simple" icon=false}
+### Leitfrage
+Was ist Antisemitismus, in welchen Formen zeigt er sich heute, und worin unterscheidet er sich vom Rassismus?
+:::
+
+Am 9. Oktober 2019, an Jom Kippur, versuchte ein Attentäter in Halle in die Synagoge einzudringen, in der über 50 Menschen beteten. Als die Tür standhielt, erschoss er eine Passantin und einen jungen Mann in einem Döner-Imbiss. Die Tat verdichtet, was diese Sitzung beschäftigt: Antisemitismus und Rassismus können in einer Tat zusammenfallen, sie funktionieren aber nicht gleich. Die Sitzung gestaltet eine Referentin von mehrWERT Demokratie. Diese Seite bündelt die begrifflichen Grundlagen zur Vor- und Nachbereitung.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Themen
+
+- Definitionen von Antisemitismus
+- Formen: tradiert, sekundär, israelbezogen
+- Antisemitismus und Rassismus
+- Befunde zu jungen Menschen
+- Soziale Arbeit und Prävention
+:::
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Zentrale Begriffe
+
+- IHRA-Arbeitsdefinition
+- tradierter und sekundärer Antisemitismus
+- Antisemitismus als Welterklärung
+- Schuldabwehr
+:::
+
+:::
+
+## 1. Was ist Antisemitismus?
+
+Die Arbeitsdefinition der International Holocaust Remembrance Alliance (IHRA) beschreibt Antisemitismus als „eine bestimmte Wahrnehmung von Jüdinnen und Juden, die sich als Hass gegenüber Jüdinnen und Juden ausdrücken kann“. Er richtet sich in Wort oder Tat gegen jüdische oder nichtjüdische Einzelpersonen, ihr Eigentum sowie jüdische Gemeindeinstitutionen und religiöse Einrichtungen (Bundesverband RIAS 2020). Die Bundesregierung und viele Institutionen nutzen diese Definition als Orientierung.
+
+## 2. Formen des Antisemitismus
+
+Die Forschung unterscheidet mehrere Formen, die sich überlagern können (Imhof 2010; Kiess et al. 2020):
+
+| Form | Kern | Beispielhafte Aussage |
+|---|---|---|
+| Tradierter (primärer) Antisemitismus | alte Bilder von jüdischer Macht, Fremdheit und Verschwörung | „Juden haben zu viel Einfluss.“ |
+| Sekundärer Antisemitismus | Abwehr von Schuld und Erinnerung nach der Shoah | „Man sollte endlich einen Schlussstrich ziehen.“ |
+| Israelbezogener Antisemitismus | antisemitische Muster werden auf Israel übertragen | Jüdinnen und Juden in Deutschland für israelische Politik verantwortlich machen |
+
+: Formen des Antisemitismus {#tbl-formen}
+
+Der israelbezogene Antisemitismus ist Thema der nächsten Sitzung (→ [Sitzung 7](07-israelbezogener-antisemitismus.qmd)).
+
+## 3. Antisemitismus und Rassismus
+
+Antisemitismus und Rassismus sind verwandt, aber nicht identisch. Rassismus konstruiert Andere als **unterlegen**: als weniger zivilisiert, weniger fähig, weniger wert. Antisemitismus imaginiert Jüdinnen und Juden dagegen als **übermächtig**, als heimliche Lenker von Finanzwelt, Medien und Politik. Er bietet damit eine Welterklärung an: Für komplexe gesellschaftliche Entwicklungen wird eine verborgene Gruppe verantwortlich gemacht (Holz 2001). Im Nationalsozialismus verband sich beides zu einem rassistischen Antisemitismus, der in die Shoah mündete.
+
+Für die Seminararbeit folgt daraus: Gemeinsamkeiten und Unterschiede klar benennen, statt Formen gegeneinander auszuspielen (Messerschmidt 2010). Antisemitismus findet sich zudem in allen politischen und gesellschaftlichen Milieus, auch in migrantischen, wie die vorige Sitzung zu den Grauen Wölfen gezeigt hat (→ [Sitzung 5](05-graue-woelfe.qmd)).
+
+## 4. Befunde zu jungen Menschen
+
+Studien wie die Mitte-Studien oder die Leipziger Autoritarismus-Studien betrachten junge Menschen kaum gesondert. Eine bundesweite Online-Befragung von 1.594 jungen Menschen zwischen 16 und 27 Jahren (November 2022) hat diese Lücke für antisemitische Einstellungen untersucht (Kart/Zimmer 2023). Sie unterscheidet zwischen latenter und manifester Zustimmung zu tradiertem, sekundärem und israelbezogenem Antisemitismus und betrachtet die Zustimmung in unterschiedlichen politischen Milieus. Die Ergebnisse werden in der Sitzung vorgestellt.
+
+::: {.praxis}
+**Für die Praxis heißt das:** Soziale Arbeit kann auf individueller, gemeinschaftlicher und struktureller Ebene zur Prävention beitragen: durch Sensibilisierung, die Förderung einer Kultur der Anerkennung, Medienreflexion als Querschnittsaufgabe und Gegen-Narrative in Online-Räumen. Voraussetzung sind Fachkräfte, die Antisemitismus in seinen Codes erkennen, eine kontinuierliche Selbstreflexion in Teams und eine gestärkte Schulsozialarbeit mit einer Gesamtstrategie gegen Ungleichwertigkeitsideologien (Kart/Zimmer 2023).
+:::
+
+## Zur Vertiefung
+
+::: {.callout-tip title="Fragen zur Nachbereitung des Gastvortrags"}
+1. Welche Erscheinungsformen des Antisemitismus wurden im Vortrag vorgestellt, und welcher Form aus @tbl-formen lassen sie sich zuordnen?
+2. Welche Beispiele aus Schule, Jugendarbeit oder sozialen Medien kennen Sie?
+3. Welche Handlungsansätze hat die Referentin für die Praxis vorgeschlagen?
+:::
+
+::: {.callout-tip title="Reflexionsfrage"}
+Warum wird Antisemitismus in Einrichtungen der Sozialen Arbeit häufig erst wahrgenommen, wenn er offen und laut auftritt?
+:::
+
+**Zum Weiterlesen:** Holz, Klaus (2001): Nationaler Antisemitismus. Wissenssoziologie einer Weltanschauung. Hamburg: Hamburger Edition. · Kart, Mehmet/Zimmer, Veronika (2023): Antisemitische Einstellungen junger Menschen – Stärkung demokratischer Grundhaltungen durch Angebote Sozialer Arbeit. In: ZepRa. Zeitschrift für praxisorientierte (De-)Radikalisierungsforschung 2 (1), S. 92–130. · Bundesverband RIAS (2020): Arbeitsdefinition Antisemitismus der International Holocaust Remembrance Alliance. Berlin.

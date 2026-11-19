@@ -1,0 +1,75 @@
+---
+title: "Sitzung 7: Israelbezogener Antisemitismus in der Popkultur"
+subtitle: "19.11.2026 · Gastreferentin: mehrWERT Demokratie"
+---
+
+::: {.callout-note appearance="simple" icon=false}
+### Leitfrage
+Woran lässt sich israelbezogener Antisemitismus erkennen, wie wird er in Musik, Videos und sozialen Medien transportiert, und wie können Fachkräfte mit Jugendlichen darüber ins Gespräch kommen?
+:::
+
+Ein Rapvideo läuft auf dem Handy, die Jugendlichen im Jugendtreff singen mit. Zwischen Beats und Bildern tauchen Anspielungen auf, die kaum jemand bewusst wahrnimmt: ein Kraken, der die Welt umschlingt, Bankiersnamen als Chiffre, eine Landkarte, auf der Israel nicht vorkommt. Popkultur ist für Jugendliche ein zentraler Resonanzraum. Gerade dort werden antisemitische Bilder oft beiläufig, ironisch oder als vermeintliche Israelkritik verbreitet. Die Sitzung gestaltet eine Referentin von mehrWERT Demokratie mit einer Analyse popkultureller Beispiele. Diese Seite stellt die begrifflichen Werkzeuge bereit.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Themen
+
+- Israelbezogener Antisemitismus: Begriff
+- Kritik an Politik und antisemitische Muster
+- Codes und Chiffren in der Popkultur
+- Pädagogischer Umgang
+:::
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Zentrale Begriffe
+
+- israelbezogener Antisemitismus
+- Dämonisierung, Delegitimierung, doppelte Standards
+- Chiffre, Code
+- Umwegkommunikation
+:::
+
+:::
+
+## 1. Was ist israelbezogener Antisemitismus?
+
+Israelbezogener Antisemitismus überträgt antisemitische Bilder und Muster auf den Staat Israel. Das geschieht etwa, wenn Israel als Inbegriff des Bösen dämonisiert wird, wenn ihm das Existenzrecht abgesprochen wird oder wenn Jüdinnen und Juden in Deutschland für israelische Politik verantwortlich gemacht werden. Antisemitische Stereotype werden dabei häufig nicht offen ausgesprochen, sondern über Israel „umgeleitet“. Die Forschung spricht von **Umwegkommunikation**: Was über Jüdinnen und Juden nicht gesagt werden kann, wird über Israel gesagt.
+
+## 2. Kritik oder Antisemitismus?
+
+Kritik an der Politik einer israelischen Regierung ist nicht per se antisemitisch. Die Frage, wo die Grenze verläuft, wird fachlich und politisch kontrovers diskutiert. Neben der Arbeitsdefinition der IHRA mit ihren Beispielen gibt es etwa die Jerusalemer Erklärung zum Antisemitismus (2021), die die Grenze anders zieht. Für die pädagogische Praxis hat sich eine Heuristik bewährt, der sogenannte **3D-Test** nach Natan Sharansky:
+
+| Kriterium | Leitfrage | Beispiel |
+|---|---|---|
+| Dämonisierung | Wird Israel als das absolut Böse dargestellt, etwa durch NS-Vergleiche? | „Israel ist der neue Nazi-Staat.“ |
+| Delegitimierung | Wird Israel das Existenzrecht abgesprochen? | Landkarten, auf denen Israel nicht existiert |
+| Doppelte Standards | Wird Israel mit Maßstäben gemessen, die an keinen anderen Staat angelegt werden? | Ausschließlich Israel wird für Menschenrechtsverletzungen boykottiert |
+
+: Der 3D-Test als Heuristik {#tbl-3d}
+
+Der Test ersetzt keine Analyse im Einzelfall. Er hilft aber, Aussagen einzuordnen, ohne jede Kritik unter Verdacht zu stellen oder antisemitische Muster als „Israelkritik“ zu verharmlosen.
+
+## 3. Codes in der Popkultur
+
+In Musik, Musikvideos, Memes und Kurzvideos wirkt Antisemitismus selten offen. Häufiger arbeitet er mit **Chiffren und Bildern**, die an tradierte Motive anschließen: die Krake oder Spinne als Bild weltumspannender Macht, Bankiersnamen als Code für jüdischen Einfluss, Verschwörungserzählungen über die Kontrolle von Medien und Finanzwelt. Gerade über Israel lassen sich diese Motive scheinbar legitim formulieren. Hinzu kommt die Verpackung: Ironie, Provokation und Jugendsprache senken die Schwelle, Inhalte zu teilen, ohne sie als antisemitisch zu erkennen.
+
+Für Jugendliche, die selbst Rassismuserfahrungen machen oder sich mit dem Nahostkonflikt verbunden fühlen, können solche Inhalte besonders anschlussfähig sein. Hier ist Differenzierung gefragt: Empathie für Erfahrungen und Perspektiven schließt die klare Benennung antisemitischer Muster nicht aus.
+
+::: {.praxis}
+**Für die Praxis heißt das:** Fachkräfte müssen popkulturelle Codes nicht vollständig kennen, sollten aber nachfragen können: „Was meint die Zeile? Wen trifft das Bild?“ Statt Jugendliche bloßzustellen, eignen sich gemeinsame Analysen von Songs und Videos. Zugleich gilt: Jüdische Jugendliche und Kolleg:innen sind vor antisemitischen Äußerungen zu schützen. Nahostbezogene Konflikte in der Einrichtung brauchen klare Regeln, die sowohl Antisemitismus als auch antimuslimischen und antipalästinensischen Rassismus benennen.
+:::
+
+## Zur Vertiefung
+
+::: {.callout-tip title="Fragen zur Nachbereitung des Gastvortrags"}
+1. Welche popkulturellen Beispiele hat die Referentin analysiert, und welche Codes enthielten sie?
+2. Wenden Sie den 3D-Test (@tbl-3d) auf eines der Beispiele an. Wo stößt er an Grenzen?
+3. Wie würden Sie reagieren, wenn Jugendliche in Ihrer Einrichtung ein solches Lied abspielen?
+:::
+
+::: {.callout-tip title="Reflexionsfrage"}
+Wie gelingt es, mit Jugendlichen über den Nahostkonflikt zu sprechen, ohne ihre Erfahrungen abzuwerten und ohne antisemitische Muster stehen zu lassen?
+:::
+
+**Zum Weiterlesen:** Bundesverband RIAS (2020): Arbeitsdefinition Antisemitismus der International Holocaust Remembrance Alliance. Berlin. · Kart, Mehmet/Zimmer, Veronika (2023): Antisemitische Einstellungen junger Menschen – Stärkung demokratischer Grundhaltungen durch Angebote Sozialer Arbeit. In: ZepRa 2 (1), S. 92–130.

@@ -1,0 +1,107 @@
+# ─────────────────────────────────────────────────────────────
+# Einstellungen des Skripts. Ändern Sie nur die Zeilen mit ← .
+# Alles andere ist fertig eingerichtet.
+# ─────────────────────────────────────────────────────────────
+project:
+  type: website
+  output-dir: docs            # die fertige Webseite landet in docs/
+  render:                     # nur diese Seiten werden gebaut
+    - index.qmd
+    - welcome.qmd
+    - grundlagen/*.qmd
+    - sitzungen/*.qmd
+    - 03-lernspiele.qmd
+    - 04-lernkontrolle.qmd
+  resources:
+    - "interactions/*"        # Lernspiele werden mitkopiert
+    - "fonts/*"               # Schrift Outfit (OTH), lokal eingebunden
+
+website:
+  title: "Rassismuskritische Soziale Arbeit"                    # ← Titel
+  page-navigation: true
+  sidebar:
+    style: docked
+    search: true
+    collapse-level: 1
+    contents:
+      - text: "Willkommen"
+        href: welcome.qmd
+      - section: "Grundlagen"
+        contents:
+          - text: "Grundbegriffe der Rassismuskritik"
+            href: grundlagen/01-grundbegriffe.qmd
+      - section: "Sitzungen"
+        contents:
+          - text: "Seminarüberblick"
+            href: index.qmd
+          - section: "Block I · Begriffe und Theorien"
+            contents:
+              - text: "1 · Einführung: Begriffe"
+                href: sitzungen/01-einfuehrung.qmd
+              - text: "2 · Postkoloniale Theorie und CRT"
+                href: sitzungen/02-postkolonial-crt.qmd
+              - text: "3 · Intersektionalität und Kritisches Weißsein"
+                href: sitzungen/03-intersektionalitaet-weisssein.qmd
+          - section: "Block II · Erscheinungsformen"
+            contents:
+              - text: "4 · Antimuslimischer Rassismus"
+                href: sitzungen/04-antimuslimischer-rassismus.qmd
+              - text: "5 · Graue Wölfe und türkischer Ultranationalismus"
+                href: sitzungen/05-graue-woelfe.qmd
+              - text: "6 · Erscheinungsformen des Antisemitismus"
+                href: sitzungen/06-antisemitismus.qmd
+              - text: "7 · Israelbezogener Antisemitismus in der Popkultur"
+                href: sitzungen/07-israelbezogener-antisemitismus.qmd
+          - section: "Block III · Praxisfelder und Handlungsansätze"
+            contents:
+              - text: "8 · Migration und Flucht"
+                href: sitzungen/08-migration-flucht.qmd
+              - text: "9 · Pädagogik, Empowerment, Community Organizing"
+                href: sitzungen/09-paedagogik-empowerment.qmd
+              - text: "10 · Politische Bildung und Antidiskriminierungsarbeit"
+                href: sitzungen/10-politische-bildung-antidiskriminierung.qmd
+              - text: "11 · Handlungsmöglichkeiten und Methoden"
+                href: sitzungen/11-handlungsmoeglichkeiten-methoden.qmd
+          - section: "Block IV · Organisation und Positionierung"
+            contents:
+              - text: "12 · Organisationale Reflexion"
+                href: sitzungen/12-organisationale-reflexion.qmd
+              - text: "13 · Positionierung und Abschluss"
+                href: sitzungen/13-positionierung-abschluss.qmd
+      - section: "Üben"
+        contents:
+          - text: "Lernspiele"
+            href: 03-lernspiele.qmd
+          - text: "Lernkontrolle"
+            href: 04-lernkontrolle.qmd
+  page-footer:
+    left: "© Prof. Dr. Mehmet Kart · CC BY-SA 4.0"         # ← Lizenzhinweis
+    right: "Erstellt mit [Quarto](https://quarto.org)"
+
+lang: de
+toc-title: "Auf dieser Seite"
+
+crossref:
+  fig-title: Abbildung
+  tbl-title: Tabelle
+  fig-prefix: Abbildung
+  tbl-prefix: Tabelle
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles.scss
+    css: fonts/outfit.css            # Schrift Outfit (OTH), ohne Google-Server
+    number-sections: false
+    toc: true
+    toc-title: "Auf dieser Seite"
+    toc-depth: 2
+    toc-expand: true
+    crossrefs-hover: true
+    footnotes-hover: true
+    link-external-newwindow: true
+    callout-appearance: simple
+    include-after-body:
+      - include/iframe-hoehe.html    # Lernspiele bekommen automatisch die passende Höhe
+      - include/theory-panel.html    # Positionen auf Sitzungsseiten aufklappen

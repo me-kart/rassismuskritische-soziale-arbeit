@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Lernkontrolle: Rassismuskritische Soziale Arbeit</title>
+<!--
+  Lernkontrolle zur Lehrveranstaltung „Rassismuskritische Soziale Arbeit“:
+  neun Multiple-Choice-Fragen zu typischen Verwechslungen, mit erklärender Rückmeldung
+  zu jeder Antwortoption. Inhalte nur im DATEN-Block ändern.
+-->
+<style>
+  :root { --akzent: #1f5f8b; --ok: #2e7d32; --nok: #b3261e; --rand: #d0d7de; }
+  * { box-sizing: border-box; }
+  body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif; margin: 0; padding: 12px; color: #1b1f24; line-height: 1.45; }
+  h1 { font-size: 1.1rem; margin: 0 0 4px; }
+  .hinweis { font-size: 0.9rem; color: #57606a; margin: 0 0 10px; }
+  .frage { border: 1px solid var(--rand); border-radius: 8px; padding: 10px; margin-bottom: 10px; }
+  .frage > p { margin: 0 0 8px; font-weight: 600; }
+  .opt { display: block; width: 100%; text-align: left; font: inherit; font-size: 0.92rem; margin: 4px 0; padding: 7px 10px;
+         border: 1px solid var(--rand); border-radius: 6px; background: #fff; cursor: pointer; }
+  .opt:focus-visible { outline: 3px solid #e0a400; outline-offset: 2px; }
+  .opt.ok { border: 2px solid var(--ok); background: #e8f5e9; }
+  .opt.nok { border: 2px solid var(--nok); background: #fdecea; }
+  .fb { font-size: 0.9rem; margin-top: 6px; }
+  #summe { font-weight: 600; }
+</style>
+</head>
+<body>
+<h1 id="titel"></h1>
+<p class="hinweis" id="hinweis"></p>
+<div id="fragen"></div>
+<p id="summe" aria-live="polite"></p>
+
+<script>
+/* ===== DATEN: Nur diesen Block ändern ===================================== */
+const DATEN = {
+  "titel": "Lernkontrolle: Was haben Sie behalten?",
+  "hinweis": "Wählen Sie pro Frage eine Antwort. Die Rückmeldung erklärt jede Option, auch die falschen.",
+  "ergebnis": "Ergebnis: {punkte} von {gesamt} richtig.",
+  "fragen": [
+    {
+      "frage": "Eine Lehrkraft denkt: „Jugendliche aus dem Viertel sind faul.“ Sie behandelt aber alle Schüler:innen gleich. Was liegt vor?",
+      "optionen": [
+        {
+          "text": "Diskriminierung, weil der Gedanke schon schadet",
+          "richtig": false,
+          "warum": "Diskriminierung bezeichnet eine Schlechterbehandlung; ein Gedanke ohne Handlung ist noch keine."
+        },
+        {
+          "text": "Ein Vorurteil: eine herabsetzende Einstellung, die (noch) nicht in Handeln mündet",
+          "richtig": true,
+          "warum": "Vorurteile verbinden Stereotyp und Bewertung. Ob daraus Diskriminierung wird, zeigt sich im Handeln, etwa bei Noten oder Empfehlungen."
+        },
+        {
+          "text": "Nichts davon, solange es niemand merkt",
+          "richtig": false,
+          "warum": "Auch unausgesprochene Vorurteile können Wahrnehmung und Entscheidungen beeinflussen; die Reflexion beginnt deshalb vor dem Handeln."
+        }
+      ]
+    },
+    {
+      "frage": "Eine Gärtnerei sucht Mitarbeitende mit „Deutsch als Muttersprache“. Wie ist das einzuordnen?",
+      "optionen": [
+        {
+          "text": "Als mittelbare Diskriminierung: ein scheinbar neutrales Kriterium, das bestimmte Gruppen stärker trifft",
+          "richtig": true,
+          "warum": "Für die Tätigkeit ist die Muttersprache nicht nötig; das Kriterium benachteiligt faktisch Menschen nichtdeutscher Herkunft."
+        },
+        {
+          "text": "Als unmittelbare Diskriminierung, weil die Herkunft direkt genannt wird",
+          "richtig": false,
+          "warum": "Die Muttersprache ist kein Merkmal nach § 1 AGG; das Kriterium wirkt aber wie eines."
+        },
+        {
+          "text": "Als zulässige Anforderung, weil sie für alle gleich gilt",
+          "richtig": false,
+          "warum": "Gleiche Regeln können ungleich wirken. Genau das beschreibt der Begriff der mittelbaren Diskriminierung."
+        }
+      ]
+    },
+    {
+      "frage": "Warum spricht Rommelspacher von Rassismus als „gesellschaftlichem Verhältnis“?",
+      "optionen": [
+        {
+          "text": "Weil fast alle Menschen Vorurteile haben",
+          "richtig": false,
+          "warum": "Vorurteile sind verbreitet; Rassismus wird aber erst durch Macht und Hierarchie zum Verhältnis."
+        },
+        {
+          "text": "Weil Rassismus nur in Gesellschaften mit Rechtsextremen vorkommt",
+          "richtig": false,
+          "warum": "Rassismus ist nicht an extreme Gruppen gebunden, sondern in der Normalität von Institutionen verankert."
+        },
+        {
+          "text": "Weil konstruierte Gruppen hierarchisiert werden und das ungleiche Macht legitimiert",
+          "richtig": true,
+          "warum": "Naturalisierung, Homogenisierung, Polarisierung und Hierarchisierung, verbunden mit der Macht, die Unterscheidung durchzusetzen."
+        }
+      ]
+    },
+    {
+      "frage": "„Bei diesen Familien ist Kritik ein Affront, das ist kulturell so.“ Welcher Begriff beschreibt die Aussage am besten?",
+      "optionen": [
+        {
+          "text": "Kultursensibilität",
+          "richtig": false,
+          "warum": "Kultursensibel wäre es, nach der Bedeutung für die konkrete Familie zu fragen; hier wird eine Eigenschaft vorab unterstellt."
+        },
+        {
+          "text": "Intersektionalität",
+          "richtig": false,
+          "warum": "Intersektionalität analysiert verschränkte Kategorien; die Aussage reduziert dagegen auf eine einzige."
+        },
+        {
+          "text": "Kulturalisierung",
+          "richtig": true,
+          "warum": "Ein Verhalten wird auf die Herkunft zurückgeführt; Belastungen, Biografie und Schulerfahrungen bleiben unsichtbar."
+        }
+      ]
+    },
+    {
+      "frage": "Gomolla und Radtke zeigen, dass Kinder mit Migrationsgeschichte häufiger an Förderschulen überwiesen werden. Worauf führen sie das vor allem zurück?",
+      "optionen": [
+        {
+          "text": "Auf rassistische Einstellungen einzelner Lehrkräfte",
+          "richtig": false,
+          "warum": "Einzelne Einstellungen spielen eine Rolle, die Studie zeigt aber, dass Benachteiligung auch ohne sie entsteht."
+        },
+        {
+          "text": "Auf Entscheidungsroutinen der Organisation Schule",
+          "richtig": true,
+          "warum": "Bei Einschulung, Zurückstellung und Überweisung dienten Sprache oder „kultureller Hintergrund“ als Begründung: institutionelle Diskriminierung."
+        },
+        {
+          "text": "Auf geringere Begabung der Kinder",
+          "richtig": false,
+          "warum": "Die Studie widerlegt gerade die Erklärung über individuelle Defizite."
+        }
+      ]
+    },
+    {
+      "frage": "Fünf Schwarze Frauen klagen 1976 gegen General Motors und verlieren. Was zeigt Crenshaw an diesem Fall?",
+      "optionen": [
+        {
+          "text": "Dass ein Recht, das nur Rassismus oder Sexismus prüft, die verschränkte Benachteiligung Schwarzer Frauen nicht erfasst",
+          "richtig": true,
+          "warum": "Das Gericht prüfte getrennt und maß an den jeweils privilegierteren Gruppen. Crenshaw nennt das Problem Intersektionalität."
+        },
+        {
+          "text": "Dass Rassismus und Sexismus sich einfach addieren",
+          "richtig": false,
+          "warum": "Gerade die additive Logik ließ die Klage scheitern; die Benachteiligung lag an der Kreuzung."
+        },
+        {
+          "text": "Dass es bei General Motors keine Diskriminierung gab",
+          "richtig": false,
+          "warum": "GM beschäftigte Schwarze Männer und weiße Frauen; Schwarze Frauen wurden kaum eingestellt und zuerst entlassen."
+        }
+      ]
+    },
+    {
+      "frage": "Eine weiße Studentin sagt: „Ich hatte es auch nicht leicht, wir hatten nie Geld.“ Wie lässt sich das mit Kritischem Weißsein einordnen?",
+      "optionen": [
+        {
+          "text": "Man kann zugleich durch Klasse benachteiligt und durch Weißsein privilegiert sein",
+          "richtig": true,
+          "warum": "Intersektional betrachtet ist man fast immer zugleich privilegiert und benachteiligt; Benachteiligungen müssen nicht konkurrieren."
+        },
+        {
+          "text": "Die Aussage widerlegt, dass sie privilegiert ist",
+          "richtig": false,
+          "warum": "Privileg heißt nicht leichtes Leben; Armut ist real, Rassismus gehört aber nicht zu ihren Hürden."
+        },
+        {
+          "text": "Klassismus ist schwerwiegender als Rassismus",
+          "richtig": false,
+          "warum": "Diskriminierungsformen gegeneinander auszuspielen, wiederholt das Entweder-oder-Raster."
+        }
+      ]
+    },
+    {
+      "frage": "Was unterscheidet Antisemitismus von Rassismus?",
+      "optionen": [
+        {
+          "text": "Nichts, Antisemitismus ist einfach eine Form von Rassismus",
+          "richtig": false,
+          "warum": "Beide sind verwandt und können zusammenfallen, funktionieren aber unterschiedlich."
+        },
+        {
+          "text": "Antisemitismus gibt es nur bei Rechtsextremen",
+          "richtig": false,
+          "warum": "Antisemitismus findet sich in allen politischen und gesellschaftlichen Milieus, auch in migrantischen."
+        },
+        {
+          "text": "Rassismus konstruiert Andere als unterlegen, Antisemitismus imaginiert Jüdinnen und Juden als übermächtig",
+          "richtig": true,
+          "warum": "Antisemitismus bietet eine Welterklärung: Eine verborgene Gruppe soll hinter komplexen Entwicklungen stehen (Holz 2001)."
+        }
+      ]
+    },
+    {
+      "frage": "Ein Träger startet einen Empowerment-Workshop „für Jugendliche of Color“ und lässt ihn von zwei weißen Fachkräften leiten, die die Themen vorgeben. Was ist daran problematisch?",
+      "optionen": [
+        {
+          "text": "Nichts, Hauptsache das Angebot findet statt",
+          "richtig": false,
+          "warum": "Empowerment ist kein Angebot „für“ Betroffene, sondern ihre eigene Praxis."
+        },
+        {
+          "text": "Empowerment wird zum Angebot von außen; nötig wären Selbstbestimmung, Safer Spaces und Powersharing",
+          "richtig": true,
+          "warum": "Fachkräfte stellen Räume und Ressourcen bereit; Themen und Leitung sollten bei den Jugendlichen bzw. Trainer:innen mit Rassismuserfahrung liegen."
+        },
+        {
+          "text": "Dass Jugendliche of Color gesondert angesprochen werden",
+          "richtig": false,
+          "warum": "Getrennte Räume können sinnvoll sein, damit Jugendliche sich nicht vor Weißen erklären müssen."
+        }
+      ]
+    }
+  ]
+};
+/* ===== ENDE DATEN ========================================================== */
+
+(function () {
+  document.getElementById("titel").textContent = DATEN.titel;
+  document.getElementById("hinweis").textContent = DATEN.hinweis;
+  const box = document.getElementById("fragen");
+  let beantwortet = 0, punkte = 0;
+
+  DATEN.fragen.forEach((f, i) => {
+    const d = document.createElement("div"); d.className = "frage";
+    const p = document.createElement("p"); p.textContent = (i + 1) + ". " + f.frage; d.appendChild(p);
+    const fb = document.createElement("div"); fb.className = "fb"; fb.setAttribute("aria-live", "polite");
+    const knoepfe = f.optionen.map((o) => {
+      const b = document.createElement("button"); b.type = "button"; b.className = "opt"; b.textContent = o.text;
+      b.addEventListener("click", () => {
+        if (d.dataset.fertig) return;
+        d.dataset.fertig = "1"; beantwortet++; if (o.richtig) punkte++;
+        knoepfe.forEach((k, j) => { if (f.optionen[j].richtig) k.classList.add("ok"); });
+        if (!o.richtig) b.classList.add("nok");
+        fb.innerHTML = "";
+        f.optionen.forEach((x) => {
+          const z = document.createElement("div");
+          z.textContent = (x.richtig ? "✓ " : "✗ ") + x.text + ": " + x.warum; fb.appendChild(z);
+        });
+        if (beantwortet === DATEN.fragen.length)
+          document.getElementById("summe").textContent = DATEN.ergebnis.replace("{punkte}", punkte).replace("{gesamt}", DATEN.fragen.length);
+        meldeHoehe();
+      });
+      d.appendChild(b); return b;
+    });
+    d.appendChild(fb); box.appendChild(d);
+  });
+
+  function meldeHoehe() {
+    try { window.parent.postMessage({ typ: "iframe-hoehe", hoehe: document.documentElement.scrollHeight }, "*"); } catch (e) {}
+  }
+  window.addEventListener("load", meldeHoehe);
+  window.addEventListener("resize", meldeHoehe);
+})();
+</script>
+</body>
+</html>

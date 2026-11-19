@@ -1,0 +1,144 @@
+---
+title: "Sitzung 2: Postkoloniale Theorie und Critical Race Theory"
+subtitle: "15.10.2026"
+---
+
+::: {.callout-note appearance="simple" icon=false}
+### Leitfrage
+Wie wirkt koloniale Macht in Wissen, Sprache und Identität weiter, wie wird ihr widersprochen, und was trägt die Critical Race Theory zu dieser Analyse bei?
+:::
+
+Anfang des 20. Jahrhunderts kontrollierte Europa rund 85 Prozent der Erdoberfläche. Kolonialismus war dabei nicht nur militärische Herrschaft, sondern ein langer, gewaltvoller Prozess von Ausbeutung, Versklavung und Wissensproduktion. Er hat nicht nur die Kolonien geprägt, sondern auch den „globalen Norden“, Deutschland eingeschlossen, dessen Kolonialgeschichte oft vergessen wird. Der Völkermord an den Herero und Nama (1904–1908) ist dafür das bekannteste Beispiel. Die Sitzung stellt zwei Theorieperspektiven vor, die Rassismus als strukturelles Machtverhältnis verstehen.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Themen
+
+- Was „postkolonial“ bedeutet
+- Fünf Theoretiker:innen in Gruppenarbeit
+- Sieben Konzepte postkolonialer Theorie
+- Critical Race Theory: Grundannahmen
+- Bedeutung für die Soziale Arbeit
+:::
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Zentrale Begriffe
+
+- Othering, Essentialismus, strategischer Essentialismus
+- Mimikry, Hybridität, Third Space
+- Kolonialität der Macht
+- Interessenkonvergenz, Counter-Storytelling
+:::
+
+:::
+
+## 1. Was heißt „postkolonial“?
+
+Postkoloniale Theorie ist kein einheitliches Theoriegebäude, sondern ein interdisziplinärer Ansatz aus Literatur-, Geschichts- und Politikwissenschaft, Soziologie und Gender Studies. Sie analysiert koloniale Machtverhältnisse und ihr Fortwirken in der Gegenwart, epistemisch, kulturell und ökonomisch. Sie hinterfragt dabei auch die Wissenschaften selbst als Träger kolonialer Wissensordnungen.
+
+Castro Varela und Dhawan (2009) unterscheiden zwei Schreibweisen. **Post-kolonial** mit Bindestrich meint zeitlich die Epoche nach der formalen Unabhängigkeit, etwa Indiens 1947 oder Algeriens 1962. **Postkolonial** ohne Bindestrich meint eine kritische Perspektive auf das, was bleibt. Das „post“ markiert also keinen Abschluss.
+
+## 2. Fünf Stimmen der postkolonialen Theorie
+
+In der Gruppenarbeit erschließen fünf Gruppen je eine:n Theoretiker:in. Klicken Sie auf einen Namen, um die Kurzporträts aufzuklappen.
+
+[Die Theoretiker:innen im Überblick:]{.theory-hint}
+[Frantz Fanon]{.theory-link data-theory="fanon"} · [Edward W. Said]{.theory-link data-theory="said"} · [Gayatri C. Spivak]{.theory-link data-theory="spivak"} · [Stuart Hall]{.theory-link data-theory="hall"} · [Aníbal Quijano]{.theory-link data-theory="quijano"}
+
+::: {#theory-fanon .theory-panel}
+#### Frantz Fanon (1925–1961): das Subjekt
+
+Fanon stammte aus Martinique, arbeitete als Psychiater in Blida (Algerien) und schloss sich der algerischen Befreiungsbewegung an. Hauptwerke sind *Schwarze Haut, weiße Masken* (1952) und *Die Verdammten dieser Erde* (1961). Seine Frage lautet: Was macht Kolonialismus mit dem Subjekt? Kolonialismus dringt bis in die Psyche; Unterlegenheit wird verinnerlicht und „auf die Haut geschrieben“ (**Epidermalisierung**). Psychisches Leiden hat gesellschaftliche Ursachen (**Soziogenese**).
+
+**Für die Soziale Arbeit:** Rassismuserfahrungen können krank machen. Belastungen nicht kulturalisieren oder pathologisieren, sondern Diskriminierung als Ursache prüfen.
+:::
+
+::: {#theory-said .theory-panel}
+#### Edward W. Said (1935–2003): Texte und Diskurse
+
+Said, in Jerusalem geboren und Literaturwissenschaftler an der Columbia University, begründete mit *Orientalism* (1978) die Postcolonial Studies. Der „Orient“ ist eine Konstruktion des Westens; das Wissen über ihn diente dazu, ihn zu beherrschen (**Wissen/Macht**). Said fragt nicht, wie der Orient „wirklich“ ist, sondern wie Bilder von ihm entstehen und wem sie dienen.
+
+**Für die Soziale Arbeit:** Kulturalisierende Bilder in Akten, Gutachten und Konzepten erkennen, etwa beim antimuslimischen Rassismus. Wer produziert das Wissen über Zielgruppen?
+:::
+
+::: {#theory-spivak .theory-panel}
+#### Gayatri C. Spivak (geb. 1942): Repräsentation und ihre Grenzen
+
+Spivak, Literaturtheoretikerin aus Kalkutta, fragt in *Can the Subaltern Speak?* (1988): Wer kann sprechen, und wer spricht für wen? Den Subalternen fehlen Strukturen, in denen ihre Stimme gehört wird; auch kritische Intellektuelle sprechen für sie. Andere Wissensformen werden entwertet (**epistemische Gewalt**). Mit dem **strategischen Essentialismus** beschreibt sie, wie Unterdrückte bewusst und vorübergehend eine gemeinsame Identität betonen, um handlungsfähig zu werden.
+
+**Für die Soziale Arbeit:** Fachkräfte sprechen ständig für andere. Partizipation muss Folgen haben, sonst wird Fürsprache zur Bevormundung.
+:::
+
+::: {#theory-hall .theory-panel}
+#### Stuart Hall (1932–2014): Alltagskultur und Medien
+
+Hall, in Kingston (Jamaika) geboren, prägte die Cultural Studies in Birmingham. Bedeutungen entstehen in der Kultur, durch Sprache, Bilder und Zeichen (**Repräsentation**). „Der Westen“ ist eine Idee, die einen „Rest“ als rückständig konstruiert. „Rasse“ ist ein **gleitender Signifikant**: Der Inhalt wechselt zwischen Biologie, Kultur und Religion. Kulturelle Identität ist ein Werden, kein festes Sein.
+
+**Für die Soziale Arbeit:** Mediale Paniken, etwa um „Clan-Kriminalität“, kritisch lesen und Jugendliche nicht auf eine Herkunft festlegen.
+:::
+
+::: {#theory-quijano .theory-panel}
+#### Aníbal Quijano (1928–2018): globale Strukturen
+
+Der peruanische Soziologe unterscheidet Kolonialismus (direkte Herrschaft) und **Kolonialität** (fortbestehendes Machtmuster). Seit 1492 ordnen „Rasse“ und die Kontrolle von Arbeit die Welt. Moderne und Kolonialität sind zwei Seiten derselben Medaille; nur westliche Wissenschaft gilt als legitim (**Kolonialität des Wissens**).
+
+**Für die Soziale Arbeit:** Theorien und Methoden der Profession stammen meist aus dem globalen Norden. Erfahrungswissen von Communitys ist als gleichwertig anzuerkennen.
+:::
+
+## 3. Sieben Konzepte, eine gemeinsame Frage
+
+Die Konzepte stammen aus Schlüsseltexten von Du Bois (1903) bis Bhabha (1994). Die ersten vier beschreiben, wie koloniale Macht Bilder und Ordnungen herstellt; die letzten drei, wie Kolonisierte damit umgehen und antworten.
+
+| Konzept | Schlüsselfiguren | Leitfrage |
+|---|---|---|
+| The Other | Said, Spivak | Wie entsteht ein „Wir“ durch Abgrenzung? |
+| Sprache und Macht | Foucault, Said, Ngũgĩ | Wer benennt, und wer wird benannt? |
+| Metropole und Peripherie | Hall, Quijano | Wo liegt das Zentrum von Wissen und Macht? |
+| Essentialismus | Spivak, Hall | Wer wird auf ein festes „Wesen“ reduziert? |
+| Mimikry und Hybridität | Bhabha | Was geschieht, wenn Nachahmung nie ganz gelingt? |
+| Writing Back | Ashcroft, Griffiths, Tiffin | Wie antworten die Ränder dem Kanon? |
+| Double Consciousness | Du Bois, Fanon | Wie sieht man sich unter dem Blick der Anderen? |
+
+: Sieben Konzepte postkolonialer Theorie {#tbl-konzepte}
+
+**Othering** arbeitet mit Gegensatzpaaren: Das „Wir“ gilt als rational, zivilisiert, aktiv und individuell, „die Anderen“ als emotional, rückständig, passiv und alle gleich. Diese Zuschreibungen sagen mehr über das „Wir“ aus als über „die Anderen“. **Sprache** stellt Wirklichkeit dabei mit her: Die „Entdeckung“ Amerikas verdeckt die Menschen, die dort längst lebten; „Schutzgebiet“ war die offizielle Bezeichnung der deutschen Kolonien.
+
+Der **Essentialismus** schreibt einer Gruppe ein festes Wesen zu, das naturalisiert, homogenisiert und enthistorisiert wird. Heute geschieht das oft als Kulturalisierung: Statt „Rasse“ wird „Kultur“ als festes Wesen gedacht. Homi K. Bhabha zeigt mit der **Mimikry**, dass die geforderte Anpassung der Kolonisierten nie vollständig gelingt, „almost the same, but not quite“ (Bhabha 1994). Wo Nachahmung nie ganz gelingt, entsteht etwas Drittes: **Hybridität** und der **Third Space**, in dem Bedeutungen neu ausgehandelt werden. Kritiker:innen wie Kien Nghi Ha warnen allerdings, dass das Konzept Machtverhältnisse verharmlosen kann.
+
+W. E. B. Du Bois beschrieb schon 1903 die **Double Consciousness**: Schwarze Menschen erleben sich zugleich aus der eigenen Perspektive und durch den bewertenden Blick der weißen Mehrheitsgesellschaft. Für die Praxis heißt das: Rassismuserfahrungen erzeugen dauerhafte Selbstbeobachtung und Anpassungsdruck.
+
+## 4. Critical Race Theory
+
+Die Critical Race Theory (CRT) entstand in den 1970er- und 1980er-Jahren in den US-Rechtswissenschaften, u. a. bei Derrick Bell, Kimberlé Crenshaw, Richard Delgado und Mari Matsuda. Mit der postkolonialen Theorie teilt sie die Analyse von Rassismus als strukturellem Machtverhältnis. Ihr Schwerpunkt liegt aber auf Recht und Institutionen. Ihre Kernaussage: Rassismus ist kein Ausnahmefall, sondern normaler Bestandteil der Gesellschaft, und das Recht trägt trotz formaler Gleichheit dazu bei. Ein Beispiel sind formal neutrale US-Drogengesetze, die zwischen 1986 und 2010 Crack 100-mal härter bestraften als Kokainpulver; betroffen waren überwiegend Schwarze (Delgado/Stefancic 2023).
+
+| Grundannahme | Bedeutung |
+|---|---|
+| Normalität | Rassismus ist alltäglich und strukturell, nicht die Ausnahme. |
+| Interessenkonvergenz | Fortschritte gibt es vor allem, wenn sie auch der weißen Mehrheit nützen (Bell 1980). |
+| Soziale Konstruktion | „Rasse“ ist sozial hergestellt, aber real wirksam. |
+| Differentielle Rassifizierung | Gruppen werden je nach Bedarf unterschiedlich rassifiziert. |
+| Intersektionalität | Kategorien verschränken sich (→ [Sitzung 3](03-intersektionalitaet-weisssein.qmd)). |
+| Stimme der Betroffenen | Erfahrungswissen und Gegenerzählungen zählen. |
+
+: Grundannahmen der Critical Race Theory {#tbl-crt}
+
+Derrick Bell deutete das Urteil gegen die Schulsegregation (Brown v. Board of Education, 1954) auch als Folge des Kalten Krieges, in dem die USA ihr Image verbessern wollten. Übertragen auf Deutschland: Einwanderung wird erleichtert, wenn Fachkräfte fehlen. Richard Delgado (1989) setzt den dominanten „Master Narratives“ das **Counter-Storytelling** entgegen. Ein deutsches Beispiel ist #MeTwo (2018), unter dem Tausende ihre Rassismuserfahrungen teilten. Kritisiert wird an der CRT, dass sie pessimistisch wirken und die Kraft sozialer Bewegungen unterschätzen kann. In den USA wird sie seit 2020 politisch bekämpft, teils mit Verboten im Schulunterricht.
+
+::: {.praxis}
+**Für die Praxis heißt das:** Vier Aufgaben lassen sich ableiten. **Othering erkennen:** Welche Bilder von Zielgruppen stecken in Fallakten, Konzepten und Anträgen? **Sprache prüfen:** Wer hat Kategorien wie „Migrationshintergrund“, „bildungsfern“ oder „schwer erreichbar“ geprägt? **Nicht kulturalisieren:** Probleme nicht vorschnell mit „der Kultur“ erklären. **Stimmen ermöglichen:** Selbstrepräsentation stärken, statt nur für andere zu sprechen.
+:::
+
+## Zur Vertiefung
+
+::: {.callout-tip title="Gruppenarbeit (5 Gruppen, 20 Minuten)"}
+Lesen Sie die Ihrer Gruppe zugewiesenen Texte im ELO (Fanon, Said, Spivak, Hall, Quijano). Arbeiten Sie die zentralen Ideen heraus und diskutieren Sie, welche Bedeutung sie für heutige Gesellschaften und für die Soziale Arbeit haben. Ordnen Sie Ihre:n Theoretiker:in anschließend den sieben Konzepten in @tbl-konzepte zu.
+:::
+
+::: {.callout-tip title="Drei Fragen für das Plenum"}
+1. Wo begegnen Ihnen im Alltag oder in der Praxis Formen von Othering und Essentialismus?
+2. Ist strategischer Essentialismus in der Empowermentarbeit sinnvoll oder riskant?
+3. Inwiefern prägen koloniale Machtverhältnisse noch heutige Gesellschaften und Wissenssysteme?
+:::
+
+**Zum Weiterlesen:** Castro Varela, María do Mar/Dhawan, Nikita (2009): Feministische Postkoloniale Theorie. Gender und (De-)Kolonisierungsprozesse. · Delgado, Richard/Stefancic, Jean (2023): Critical Race Theory. An Introduction. 4. Aufl. New York: NYU Press. · Barskanmaz, Cengiz (2020): Critical Race Theory in Deutschland. · Said, Edward W. (1978): Orientalism. New York: Pantheon.

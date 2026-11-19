@@ -1,0 +1,120 @@
+---
+title: "Sitzung 3: Intersektionalität und Kritisches Weißsein"
+subtitle: "22.10.2026"
+---
+
+::: {.callout-note appearance="simple" icon=false}
+### Leitfrage
+Wie überkreuzen sich Ungleichheiten, und wer gilt in diesen Verhältnissen als unmarkierte Norm?
+:::
+
+Montagmorgen, Fallbesprechung. Eine Kollegin sagt: „Bei Familie K. ist das kulturell bedingt. Die Mutter ist Muslima, alleinerziehend und lebt vom Bürgergeld, da fehlt einfach die Struktur.“ Was ist hier das Problem: Rassismus, Sexismus, Klassismus, oder alles zusammen und noch etwas Drittes? Die Stimmen im Seminar verteilen sich. Genau das ist der Ausgangspunkt der Sitzung. Wenn sich ein Problem keiner einzelnen Kategorie zuordnen lässt, braucht es ein Konzept dafür. Und es braucht einen zweiten Blick auf die Person, die hier spricht und ihre eigene Perspektive für neutral hält.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Themen
+
+- Der Fall DeGraffenreid v. General Motors
+- Additives und intersektionales Denken
+- Mehrebenenanalyse nach Winker und Degele
+- Kritische Weißseinsforschung
+- Abwehrmuster und Positionierung
+:::
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Zentrale Begriffe
+
+- Intersektionalität
+- strukturelle, politische, repräsentationale Dimension
+- Weißsein, Privileg, Unmarkiertheit
+- Positionierung, situiertes Wissen
+:::
+
+:::
+
+## 1. Intersektionalität: der Fall DeGraffenreid
+
+1976 klagten fünf Schwarze Frauen gegen General Motors. Bei Entlassungen nach dem Senioritätsprinzip („last hired, first fired“) hatten sie ihre Stellen verloren, weil Schwarze Frauen dort erst spät eingestellt worden waren. Das Gericht prüfte getrennt: Rassismus? Nein, denn GM beschäftigte Schwarze, nämlich Männer in der Produktion. Sexismus? Nein, denn GM beschäftigte Frauen, nämlich weiße Frauen im Büro. Beides zusammen sei keine eigene Klagegrundlage.
+
+Kimberlé Crenshaw (1989) zeigte, dass die spezifische Benachteiligung Schwarzer Frauen durch dieses Raster fällt. Das Antidiskriminierungsrecht kannte nur ein „Entweder-oder“, gemessen an den jeweils privilegierteren Gruppen. Sie vergleicht Diskriminierung mit dem Verkehr an einer Kreuzung (*intersection*): Schaden kann aus der einen Richtung kommen, aus der anderen oder aus beiden zugleich.
+
+| Additiv gedacht | Intersektional gedacht |
+|---|---|
+| Rassismus plus Sexismus ergibt eine „doppelte“ Benachteiligung. | Die Verschränkung erzeugt eigene, qualitativ spezifische Erfahrungen. |
+| Die Kategorien bleiben getrennt und werden summiert. | Etwa die Figur der „unterdrückten muslimischen Frau“, die weder muslimische Männer noch nichtmuslimische Frauen trifft. |
+
+: Additives und intersektionales Denken {#tbl-additiv}
+
+In „Mapping the Margins“ (1991) unterscheidet Crenshaw drei Dimensionen. Die **strukturelle** zeigt sich in Frauenhäusern in Los Angeles: Gewaltbetroffene Migrantinnen of Color stießen zugleich auf Armut, Sprachbarrieren und aufenthaltsrechtliche Abhängigkeit. Die **politische** Dimension beschreibt, dass antirassistische und feministische Bewegungen jeweils nur einen Teil der Betroffenen im Blick haben. Die **repräsentationale** fragt, wie Medien Frauen of Color darstellen. Intersektionalität ist dabei keine Erfindung der Wissenschaft: Sojourner Truth (1851) und das Combahee River Collective (1977) beschrieben die Verschränkung lange vor dem Begriff.
+
+## 2. Mehrebenenanalyse und Kritik
+
+Gabriele Winker und Nina Degele (2009) haben Intersektionalität mit der Ungleichheitsforschung verbunden (→ Lehrveranstaltung *Soziale Ungleichheit*). Sie unterscheiden drei Ebenen: die **Strukturebene** mit den Herrschaftsverhältnissen Klasse, Geschlecht, „Rasse“ und Körper, die **symbolischen Repräsentationen** (Normen und Bilder wie „Leistungsträger“, „bildungsfern“ oder „integrationsunwillig“) und die **Identitätsebene**. Der Kern der Analyse liegt in den Wechselwirkungen zwischen den Ebenen. So bleibt auch Klasse systematisch im Blick.
+
+Das Konzept hat Grenzen. Listen von Kategorien sind potenziell endlos; Judith Butler spricht vom verlegenen „usw.“ an ihrem Ende. Kategorien drohen als feste Identitäten missverstanden zu werden statt als Herrschaftsverhältnisse. In der europäischen Rezeption wurde das Konzept teils von Rassismus und Schwarzem Feminismus gelöst (Bilge 2013). Und als Diversity-Formel feiert es Unterschiede, während Ungleichheit unbenannt bleibt.
+
+## 3. Kritisches Weißsein
+
+Hier setzt die Kritische Weißseinsforschung an. Weißsein ist keine biologische Eigenschaft, sondern eine gesellschaftliche Position im Machtverhältnis Rassismus. Nach Ruth Frankenberg (1993) ist es ein Ort struktureller Vorteile, ein Standpunkt, von dem aus man sich, andere und die Gesellschaft betrachtet, und ein Set meist unbenannter kultureller Praktiken. Das Feld ist kein weißes Selbstfindungsprojekt. Es geht auf Schwarze Denker:innen zurück: Du Bois beschrieb 1935 den „psychologischen Lohn“ des Weißseins, Toni Morrison (1992) richtete den Blick vom rassifizierten Objekt auf das rassifizierende Subjekt. Im deutschsprachigen Raum begründete der Band von Eggers, Kilomba, Piesche und Arndt (2005) die Debatte.
+
+Drei Schlüsselbegriffe ordnen das Feld:
+
+| Begriff | Bedeutung | Reflexionsfrage |
+|---|---|---|
+| Privileg | unverdiente Vorteile, oft erlebt als Abwesenheit von Problemen; McIntosh (1988) spricht vom „unsichtbaren Rucksack“ | Was muss ich nicht tun, nicht befürchten, nicht erklären? |
+| Unmarkiertheit | Weißsein gilt als Norm, als „einfach Mensch“; man spricht von Menschen mit Migrationshintergrund, kaum je von Menschen ohne | Wann wird meine Hautfarbe überhaupt zum Thema? |
+| Positionierung | Alle sprechen von einem gesellschaftlichen Ort aus; Wissen ist situiert (Haraway 1988) | Was sehe ich von meinem Standort aus, und was nicht? |
+
+: Drei Schlüsselbegriffe der Kritischen Weißseinsforschung {#tbl-weisssein}
+
+Privileg heißt dabei nicht: ein leichtes Leben. Eine weiße, alleinerziehende Frau im Bürgergeldbezug ist durch Klasse und Geschlecht benachteiligt, erlebt aber keine rassistischen Zuschreibungen im Jobcenter oder auf dem Wohnungsmarkt. Ein Schwarzer Arzt aus akademischem Elternhaus ist durch Bildung und Einkommen privilegiert, erlebt aber Kontrollen, Herkunftsfragen und Zweifel an seiner Kompetenz. Intersektional betrachtet ist man fast immer zugleich privilegiert und benachteiligt.
+
+## 4. Abwehrmuster
+
+| Aussage | Implizite Annahme | Reflexionsfrage |
+|---|---|---|
+| „Ich sehe keine Hautfarben.“ | Farbenblindheit als Neutralität | Wer kann es sich leisten, Hautfarbe nicht zu sehen? |
+| „Ich bin doch kein Rassist.“ | Rassismus ist bewusste Böswilligkeit Einzelner | Wie wirkt Rassismus ohne Absicht, in Routinen und Strukturen? |
+| „Ich kann nichts für meine Hautfarbe.“ | Privileg bedeutet persönliche Schuld | Was hieße Verantwortung statt Schuld? |
+| „Ich habe es auch nicht leicht.“ | Benachteiligungen konkurrieren | Wie lassen sich Klasse und Rassismus zusammen denken? |
+
+: Typische Abwehrmuster {#tbl-abwehr}
+
+Robin DiAngelo (2018) beschreibt solche Reaktionen als *White Fragility*. Der Ansatz ist viel rezipiert, aber auch kritisiert: Er individualisiere und psychologisiere Rassismus und sei stark kommerzialisiert. Wenn nur das Gefühl weißer Menschen im Mittelpunkt steht, bleibt das Thema wieder bei Weißen.
+
+## 5. Weißsein in der Sozialen Arbeit
+
+Vier Muster lassen sich in der Praxis beobachten: **Definitionsmacht** (Fachkräfte bestimmen, was als Problem, Bedarf oder gelungene „Integration“ gilt), **Kulturalisierung** (Schwierigkeiten werden der „Kultur“ statt Armut, Aufenthaltsrecht oder Diskriminierung zugeschrieben), **Paternalismus** (Helfen als Retten, „White Saviorism“) und **Repräsentation** (Wer leitet, wer berät, und wer wird nur als Sprachmittlerin einbezogen?).
+
+::: {.praxis}
+**Für die Praxis heißt das:** Positionierung ist eine professionelle Kompetenz in vier Schritten: die eigene Position **benennen**, Erfahrungswissen Betroffener als Expertise anerkennen (**dezentrieren**), Formulare, Zugangswege und Dokumentationssprache **prüfen** und Rassismus im Team **ansprechen**, auch wenn es unbequem ist. Verantwortung statt Schuld, Veränderung statt Selbstbespiegelung. Der Maßstab ist, ob sich für Betroffene etwas ändert.
+:::
+
+## Zur Vertiefung
+
+::: {.callout-tip title="Fallvignetten analysieren (Gruppen à 4–5, 17 Minuten)"}
+**Vignette A · Frau S.:** 38 Jahre, 2016 aus Syrien geflüchtet, ausgebildete Pharmazeutin, ihr Abschluss ist nicht anerkannt. Alleinerziehend mit zwei Kindern, Teilzeitjob als Reinigungskraft, trägt Kopftuch. Bei der Wohnungssuche in Regensburg erhält sie seit Monaten Absagen. Im Jobcenter empfiehlt man ihr einen Integrationskurs, den sie längst abgeschlossen hat.
+
+**Vignette B · Marco:** 15 Jahre, Sinto, seine Familie lebt seit Generationen in Bayern. In der Grundschule wurde er an eine Förderschule überwiesen; im Gutachten steht „familiäre Bildungsferne“. Marco möchte Kfz-Mechatroniker werden. Die Schule rät ihm, „realistisch“ zu bleiben.
+
+1. Welche Kategorien wirken, und wie greifen sie ineinander?
+2. Auf welchen Ebenen: Struktur, Repräsentation, Identität?
+3. Was sehe ich als (weiße) Fachkraft, und was übersehe ich womöglich?
+:::
+
+::: {.callout-tip title="Übung: Was steckt in meinem Rucksack? (still, 5 Minuten)"}
+Notieren Sie zu jeder Aussage: Trifft das auf mich zu? Habe ich darüber schon einmal nachgedacht? Nichts wird eingesammelt.
+
+1. Bei der Wohnungssuche muss ich nicht befürchten, wegen meines Namens keine Einladung zu bekommen.
+2. Niemand fragt mich, woher ich „wirklich“ komme.
+3. Bei Kontrollen am Bahnhof werde ich nicht wegen meines Aussehens herausgegriffen.
+4. Wenn ich gut Deutsch spreche, wird das nicht als Ausnahme gelobt.
+5. Ich kann wählen, ob ich mich mit Rassismus beschäftige, oder nicht.
+:::
+
+::: {.callout-tip title="Reflexionsfrage"}
+Zurück zum Einstieg: Was würden Sie der Kollegin aus der Fallbesprechung jetzt antworten?
+:::
+
+**Zum Weiterlesen:** Crenshaw, Kimberlé (1989): Demarginalizing the Intersection of Race and Sex. In: University of Chicago Legal Forum, S. 139–167. · Eggers, Maureen Maisha/Kilomba, Grada/Piesche, Peggy/Arndt, Susan (Hrsg.) (2005): Mythen, Masken und Subjekte. Kritische Weißseinsforschung in Deutschland. Münster: Unrast. · Tißberger, Martina (2017): Critical Whiteness. Wiesbaden: Springer VS. · Winker, Gabriele/Degele, Nina (2009): Intersektionalität. Zur Analyse sozialer Ungleichheiten. Bielefeld: transcript.
